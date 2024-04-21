@@ -58,7 +58,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/yfn-social-card.jpg',
     navbar: {
-      title: 'Roadmap',
+      title: 'Home',
       logo: {
         alt: 'Roadmap',
         src: 'img/logo.svg',
@@ -66,9 +66,9 @@ const config: Config = {
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          sidebarId: 'roadmapSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Roadmap',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
