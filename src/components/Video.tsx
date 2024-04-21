@@ -5,8 +5,8 @@ export const Video = ({ sourceId }) => (
     }}
   >
     <iframe
-      width="560"
-      height="315"
+      width="100%"
+      height="100%"
       // source id is slug after /watch?v= in youtube video URL
       src={`https://www.youtube.com/embed/${sourceId}?si=ie2PDsvpgy0gmAaE`}
       title="YouTube video player"

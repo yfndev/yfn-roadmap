@@ -2,8 +2,10 @@ import React from 'react';
 import { Callout } from "../components/Callout";
 import { ImageFloat } from "../components/ImageFloat";
 import { Video } from '../components/Video';
+import { Grid } from '../components/Grid';
 
 import MDXComponents from '@theme-original/MDXComponents';
+
 
 
 export default {
@@ -13,5 +15,6 @@ export default {
     // `Callout` will receive all props that were passed to `<Highlight>` in MDX
     Callout,
     ImageFloat,
-    Video
+    Video,
+    Grid
 };
