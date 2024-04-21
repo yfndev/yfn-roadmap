@@ -3,6 +3,7 @@ import { Callout } from "../components/Callout";
 import { ImageFloat } from "../components/ImageFloat";
 import { Video } from '../components/Video';
 import { Grid } from '../components/Grid';
+import { Tooltipp } from '../components/Tooltipp';
 
 import MDXComponents from '@theme-original/MDXComponents';
 
@@ -16,5 +17,6 @@ export default {
     Callout,
     ImageFloat,
     Video,
-    Grid
+    Grid,
+    Tooltipp,
 };
