@@ -60,9 +60,9 @@ const config: Config = {
       items: [
         {
           type: "docSidebar",
-          sidebarId: "tutorialSidebar",
+          sidebarId: "startupBasicsSidebar",
           position: "left",
-          label: "Roadmap",
+          label: "Startup Basics",
         },
         {
           href: githubUrl,
