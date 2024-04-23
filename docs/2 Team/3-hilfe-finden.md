@@ -25,15 +25,15 @@ Wenn man nicht richtig fragt, kann man so eine Antwort bekommen:
 
 ## Checkliste fürs anschreiben 🫶
 
-[ ] Ich frage in der ersten Nachricht, ob ich der Person eine Frage stellen kann, bevor ich einen langen Text schreibe
+- [ ] Ich frage in der ersten Nachricht, ob ich der Person eine Frage stellen kann, bevor ich einen langen Text schreibe
 
-[ ] Google ist mein Freund ⇒ ich habe meine Recherche gemacht, bevor ich frage
+- [ ] Google ist mein Freund ⇒ ich habe meine Recherche gemacht, bevor ich frage
 
-[ ] Bitte & Danke nicht vergessen
+- [ ] Bitte & Danke nicht vergessen
 
-[ ] Nichts als selbstverständlich nehmen
+- [ ] Nichts als selbstverständlich nehmen
 
-[ ] Konjunktiv nutzen (könntest du, würdest du bitte, etc.)
+- [ ] Konjunktiv nutzen (könntest du, würdest du bitte, etc.)
 
 ## Beispiel aus der Community
 
@@ -91,19 +91,19 @@ Für jede Software kannst du googeln, ob es eine Schüler/Studenten Version gibt
 </Grid>
 
 ## Deep Dive
-[ ] <ins>[**Erstelle dir einen LinkedIn Account**](https://www.linkedin.com/signup/cold-join?trk=guest_homepage-basic_nav-header-join)</ins>
+- [ ] <ins>[**Erstelle dir einen LinkedIn Account**](https://www.linkedin.com/signup/cold-join?trk=guest_homepage-basic_nav-header-join)</ins>
 
-[ ] Trage deine Bildung, Praktika und wenn vorhanden Berufserfahrung sowie ehrenamtliche Tätigkeiten ein
+- [ ] Trage deine Bildung, Praktika und wenn vorhanden Berufserfahrung sowie ehrenamtliche Tätigkeiten ein
 
-[ ] Füge ein Profilbild hinzu, dass einigermaßen seriös aussieht (aber bitte nicht unsympathisch im Anzug)
+- [ ] Füge ein Profilbild hinzu, dass einigermaßen seriös aussieht (aber bitte nicht unsympathisch im Anzug)
 
-[ ] Füge deine Fähigkeiten hinzu. Das kann alles sein und nicht unbedingt was Krasses
+- [ ] Füge deine Fähigkeiten hinzu. Das kann alles sein und nicht unbedingt was Krasses
 
-[ ] Wenn du magst, füge eine kurze Beschreibung über dich hinzu. Das kann auch ein Satz sein, wenn es authentisch ist
+- [ ] Wenn du magst, füge eine kurze Beschreibung über dich hinzu. Das kann auch ein Satz sein, wenn es authentisch ist
 
-[ ] Wenn du bereits an einer Idee arbeitest, trage diese auf LinkedIn ganz oben bei Berufserfahrung ein. Wenn du ganz motiviert bist, kannst du auch direkt eine Company Page mit Profilbild erstellen
+- [ ] Wenn du bereits an einer Idee arbeitest, trage diese auf LinkedIn ganz oben bei Berufserfahrung ein. Wenn du ganz motiviert bist, kannst du auch direkt eine Company Page mit Profilbild erstellen
 
-[ ] LinkedIn funktioniert mit beidseitigen Vernetzungen. Um anzufangen und nach einem aktiven Profil auszusehen, kannst du dich mit Mitgliedern aus unserem Young Founders Network vernetzen. Klicke hier, um auf LinkedIn Personen zu sehen, die im YFN sind (du kannst damit übrigens auch nach Mitarbeitern in jedem beliebigen Unternehmen suchen ;)
+- [ ] LinkedIn funktioniert mit beidseitigen Vernetzungen. Um anzufangen und nach einem aktiven Profil auszusehen, kannst du dich mit Mitgliedern aus unserem Young Founders Network vernetzen. Klicke hier, um auf LinkedIn Personen zu sehen, die im YFN sind (du kannst damit übrigens auch nach Mitarbeitern in jedem beliebigen Unternehmen suchen ;)
 
 <iframe src="https://open.spotify.com/embed/episode/5lUY1Yr4s3yQFhtPIYjlDL?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

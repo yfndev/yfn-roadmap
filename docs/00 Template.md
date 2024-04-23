@@ -7,7 +7,7 @@
   📍 TEXT
 </Callout>
 
-## INHALT
+## Inhalt
 
 asdf
 
