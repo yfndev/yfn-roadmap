@@ -56,6 +56,7 @@ const config: Config = {
       logo: {
         alt: "YFN",
         src: "img/logo.svg",
+        srcDark: "img/logo-dark.svg",
       },
       items: [
         {
