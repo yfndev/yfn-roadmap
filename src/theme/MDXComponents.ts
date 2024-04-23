@@ -1,12 +1,15 @@
 import React from "react";
+import MDXComponents from "@theme-original/MDXComponents";
 import { Callout } from "../components/Callout";
 import { ImageFloat } from "../components/ImageFloat";
 import { Video } from "../components/Video";
 import { Grid } from "../components/Grid";
 import { Tooltipp } from "../components/Tooltipp";
 import { Spacer } from "../components/Spacer";
+import { Button } from "../components/Button";
 
-import MDXComponents from "@theme-original/MDXComponents";
+
+
 
 export default {
   // Re-use the default mapping
@@ -19,4 +22,5 @@ export default {
   Grid,
   Tooltipp,
   Spacer,
+  Button,
 };

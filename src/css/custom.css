@@ -59,18 +59,21 @@ h1 [data-theme="dark"] {
 }
 
 button {
+  display: flex;
   font-family: var(--ifm-font-family-base);
   font-size: 16px;
+  font-weight: 500;
   background-color: white;
   color: #000;
   border: 2px solid black;
-  padding: 0.5rem 1rem;
+  padding: 1rem 1rem;
   cursor: pointer;
-  flex: 1;
+  width: 100%;
+  justify-content: center;
 }
 
 button:hover {
-  background-color: var(--ifm-color-primary);
+  background-color: var(--ifm-color-yfn);
 }
 
 .table-of-contents__link:hover,
