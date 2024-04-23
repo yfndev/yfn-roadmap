@@ -10,7 +10,7 @@ sidebar_position: 7
   📍 Viele Start-ups scheitern daran, dass sie zwar ein Produkt haben - es aber keiner braucht/kauft. Product Market Fit ist der Punkt, an dem das Produkt einen Markt gefunden hat.
 </Callout>
 
-## INHALT
+## Inhalt
 
 Jede Idee und jedes Start-up kommt an den Punkt, wo die Idee steht und Kunden gefunden werden müssen.
 
@@ -20,7 +20,7 @@ Es ist ein fortlaufender Prozess, der sich durchzieht. Märkte entwickeln sich w
 <Spacer />
 <VideoFloat sourceId="9v0v5TLZKzA" >Wann weißt du, ob du Produkt Market Fit hast? </VideoFloat>
 
-## DEEP DIVE TIPPS
+## Deep Dive
 
 <Grid>
   <Video sourceId="rgaP-tMkJaw" />

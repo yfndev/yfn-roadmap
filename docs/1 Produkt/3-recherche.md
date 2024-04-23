@@ -11,7 +11,7 @@ sidebar_position: 3
   🤔 Wie finde ich heraus, was meine Zielgruppe wirklich braucht?
 </Callout>
 
-## 1. IN KONTAKT KOMMEN
+## 1. In Kontakt kommen
 
 Du solltest unbedingt mit deiner Zielgruppe reden, bevor du anfängst, das Produkt zu entwickeln. Aber wie kommst du überhaupt an Leute?
 
@@ -41,7 +41,7 @@ User Research hört nie auf. Frag die Zielgruppe und später Kunden bei bzw. vor
 
 
 
-## WARUM DU DEINE IDEE NICHT GEHEIM HALTEN SOLLTEST
+## Warum du deine Idee nicht geheim halten solltest
 
 Apropos mit der Zielgruppe reden: Viele, die zum ersten Mal gründen wollen, denken, dass sie die Idee geheim halten sollten.
 Das ist verständlich, aber die komplett falsche Herangehensweise. Das Gegenteil ist der Fall. Je mehr Leuten du von deiner Idee erzählst, desto mehr hilfreiche Rückmeldungen wirst du bekommen und desto besser wird deine Idee.
@@ -56,7 +56,7 @@ Das ist verständlich, aber die komplett falsche Herangehensweise. Das Gegenteil
 ‍
 - Wenn du deine Idee öffentlich gemacht hast, ist das außerdem später ein Beweis, dass und wann du diese Idee in die Welt gesetzt hast
 
-## WIE?
+## Wie?
 
 <Tooltipp
   toolName="Notion"
@@ -65,7 +65,7 @@ Das ist verständlich, aber die komplett falsche Herangehensweise. Das Gegenteil
   buttonText="Zu den Templates"
 />
 
-## DEEP DIVE TIPPS
+## Deep Dive
 
 <Grid>
   <Video sourceId="z1iF1c8w5Lg" />

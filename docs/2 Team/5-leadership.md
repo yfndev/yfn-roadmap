@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# 💡 TITLE
+# 🦾 Leadership
 
 > Wenn du ein Schiff bauen willst, beginne nicht damit, Holz zusammenzusuchen, Bretter zu schneiden und die Arbeit zu verteilen, sondern erwecke in den Herzen der Menschen die Sehnsucht nach dem großen und schönen Meer."\
 > ― Antoine de Saint-Exupéry
@@ -68,7 +68,7 @@ Achte drauf: Es gibt keinen Allgemeinrat. Es wird immer auf die jeweilige Situat
 
 
 
-## DEEP DIVE TIPPS
+## Deep Dive
 
 **Buch: “From good to great”** \
 Nicht nur Thema Führung oder Produkte werden erwähnt, sondern beleuchtet wie du exzellent wirst

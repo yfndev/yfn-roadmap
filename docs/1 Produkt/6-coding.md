@@ -10,7 +10,7 @@ sidebar_position: 6
 </Callout>
 Erstmal ist die Frage: musst du es coden oder reicht erstmal einen No-Code Lösung? Hier bekommst du einen Überblick.
 
-## PROGRAMMIEREN LERNEN
+## Programmieren lernen
 
 Wir empfehlen zwei unterschiedliche Wege, um programmieren zu lernen.
 
@@ -39,7 +39,7 @@ Diese Frameworks, die du später brauchst, sind vermutlich:\
 
 Aber lass dich davon nicht verwirren, erstmal anfangen.
 
-## NO CODE BUILDER - FLUTTERFLOW
+## No-Code Builder - FlutterFlow
 
 Mit <ins>[Flutterflow](https://flutterflow.io/)</ins> kannst du einfache Apps mit Logik und Datenbanken aufbauen. Du kannst sogar dein Figma Design importieren als Ausgangspunkt.
 

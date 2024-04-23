@@ -8,7 +8,7 @@ sidebar_position: 2
   📍 Never fuck your Captable early on
 </Callout>
 
-## WIE VERTEILEN WIR DIE ANTEILE?
+## Wie verteilen wir die Anteile?
 
 Wie viel gehört mit vom Produkt und wie viel gebe ich an Teammitglieder ab:
 
@@ -65,7 +65,7 @@ Es zeigt Leuten die nach einem Jahr rausgehen, dass sie jetzt nicht entspannte 2
 Mehr Downloads für Startups in einer frühen Phase könnt ihr <ins>[**hier**](https://standardsinstitute.de/standardvertraege)</ins> herunterladen.
 
 
-## DEEP DIVE TIPPS
+## Deep Dive
 
 <Grid>
   <Video sourceId="9NhEBVPlJs4" />

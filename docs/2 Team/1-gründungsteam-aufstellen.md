@@ -6,11 +6,11 @@ sidebar_position: 1
 > "Alone we can do so little, together we can move mountains."
 > ― Hellen Keller
 
-## BRAUCHE ICH EIN TEAM?
+## Brauche ich ein Team?
 
 Du kannst alleine erfolgreich Unternehmen aufbauen. Aber es ist statistisch viel weniger wahrscheinlich. Besonders bei deiner ersten Gründung kann man sich in den eigenen Ideen verlieren. Ein Team kann sich gegenseitig ergänzen & man kommt zusammen viel schneller voran. Plus: Es macht einfach mehr Spaß.
 
-## ARTEN VON TEAM MITGLIEDERN
+## Arten von Teammitgliedern
 
 1. **Teammitglied**
 
@@ -35,7 +35,7 @@ Außerdem impliziert es eine Hierarchie, welche es in Realität vielleicht gar n
 
 In der Gründerszene wird es als lächerlich empfunden, wenn sich Personen in kleinen Unternehmen von 1 bis 5 Personen solche Titel geben. Als CEO eines 2-Personen Unternehmens gibst du dir den gleichen Titel wie Elon Musk bei Tesla (Extrembeispiel).
 
-## WO FINDE ICH EIN TEAM?
+## Wo finde ich ein Team?
 
 Im Grunde überall:
 
@@ -47,7 +47,7 @@ Im Grunde überall:
 
 
 
-## WIE ÜBERZEUGE ICH LEUTE, IN MEIN TEAM ZU KOMMEN?
+## Wie überzeuge ich Leute in mein Team zu kommen?
 Alle Co-Founder und Mitarbeiter sollten intrinsisch motiviert sein. Also einen eigenen Grund haben am Projekt zu arbeiten.
 
 Doch die Idee war von dir! Wie bekommst du nun Leute dazu dir mit deiner Idee zu folgen aber trotzdem intrinsisch motiviert zu sein? Das klingt erst wie ein Wiederspruch. Wenn du das schaffst kannst du dir ein langfristiges Team schaffen, falls nicht wird es früher oder später zerbrechen.
@@ -58,7 +58,7 @@ Eine Idee ist immer eng verknüpft mit dem Ideengeber. Eine Vision ist eine Idee
 
 Der Ziel als Ideengeber muss es sein die Vision auf andere Menschen zu übertragen wie Co-Founder, Mitarbeiter, Investoren und auch Kunden. Eine gute Vision ist aneckend.
 
-## PASST ER/SIE ZUM TEAM?
+## Passt er / sie zum Team?
 
 Das Wichtigste bei einem neuen Teammitglied ist, dass er/sie zu euch passt.
 Ähnliche Interessen helfen, aber deine Aufgabe ist es zu schauen ob ihr zwischenmenschlich matcht.
@@ -66,7 +66,7 @@ Das Wichtigste bei einem neuen Teammitglied ist, dass er/sie zu euch passt.
 **Tipp:**
 Ein Wochenende gemeinsam brainstormen und arbeiten. Dann bekommt man schnell ein Gefühl dafür, ob die Person passt oder eben nicht.
 
-## ACTION ITEM
+## Action Item
 1. Baue ein Notion Board mit Rollen, die du in deinem Startup benötigst.
 
 2. Mache eine Liste mit ALLEN Wegen, durch die du Teammitglieder finden könntest. Fange an sie abzuarbeiten!
@@ -79,7 +79,7 @@ Dafür kannst du folgendes <ins>[**Notion Template**](https://www.notion.so/Role
 4. Redet offen über eure persönlichen Ziele. Dafür gibt es zum Beispiel <ins>[**solche Fragen**](https://www.ycombinator.com/blog/10-questions-to-discuss-with-a-potential-co-founder)</ins>.
 
 
-## WIE?
+## Wie?
 
 <Tooltipp
   toolName="FigJam"
@@ -89,7 +89,7 @@ Dafür kannst du folgendes <ins>[**Notion Template**](https://www.notion.so/Role
   buttonText="Zu FigJam"
 />
 
-## DEEP DIVE TIPPS
+## Deep Dive
 
 <Grid>
   <Video sourceId="prKi3-rUPHc" />

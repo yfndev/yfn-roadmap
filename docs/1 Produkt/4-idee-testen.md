@@ -57,7 +57,7 @@ Denk daran, das Ziel ist es, Menschen anzuziehen, die wahrscheinlich an deinem P
 <Video sourceId="SLvDvNL9OIU" />
 
 
-## DEEP DIVE TIPPS
+## Deep Dive
 
 <Grid>
   <Video sourceId="pMIPHHd6k1A" />

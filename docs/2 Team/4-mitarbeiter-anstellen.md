@@ -105,7 +105,7 @@ Hier ein beispielhaftes Template zum duplizieren, wie eine Onboarding-Seite auss
   buttonText="Zum Template"
 />
 
-## DEEP DIVE TIPPS
+## Deep Dive
 
 <Grid>
   <Video sourceId="V-MhQ7QlFTA" />

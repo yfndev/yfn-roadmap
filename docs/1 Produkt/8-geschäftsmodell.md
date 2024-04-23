@@ -12,7 +12,7 @@ sidebar_position: 7
 
 In einer frühen Startup-Phase ist die Auswahl des passenden Geschäftsmodells und der geeigneten Preisstrategie entscheidend. Hier sind einige Aspekte, die junge Unternehmer in Betracht ziehen sollten:
 
-## TYPISCHE GESCHÄFTSMODELLE
+## Typische Geschäftsmodelle
 (Wie du Geld bekommst)
 
 1. **Freemium**
@@ -43,7 +43,7 @@ In einer frühen Startup-Phase ist die Auswahl des passenden Geschäftsmodells u
 - Vorteil: vorhersehbare wiederkehrende Einnahmen, Skalierbarkeit.
 - Herausforderung: Risiko von Kundenabwanderung, hohe Kundenakquisitionskosten
 
-## PRICING MODELLE
+## Pricing Modelle
 (Wie du deinen Preis festlegen kannst)
 
 1. **Competition-Based Pricing**
@@ -85,7 +85,7 @@ Falls du das noch nicht gemacht hast, dupliziere das Template.
   buttonText="Template duplizieren"
 />
 
-## WIE?
+## Wie?
 
 <Tooltipp
   toolName="FigJam"
@@ -95,7 +95,7 @@ Falls du das noch nicht gemacht hast, dupliziere das Template.
   buttonText="Zu FigJam"
 />
 
-## DEEP DIVE TIPPS
+## Deep Dive
 
 <Grid>
   <Video sourceId="uvw-u99yj8w" />

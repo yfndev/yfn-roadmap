@@ -11,7 +11,7 @@ sidebar_position: 2
   📍 Du hast jetzt ein erstes Problem oder sogar schon eine Lösungsidee gefunden? Dann solltest du schauen, ob es überhaupt technisch + finanziell klappen kann.
 </Callout>
 
-## INHALT
+## Inhalt
 
 Der Businessmodell Canvas ist dafür gut, weil er einige Aspekte abfragt, über die du dir dadurch Gedanken machst. Schaue dir ein Video als Erklärung haben:
 
@@ -24,7 +24,7 @@ Der Businessmodell Canvas ist dafür gut, weil er einige Aspekte abfragt, über 
 
 Setz dich hin und erstell das Business Model Canvas ehrlich für deine Idee. Das muss nicht perfekt sein. Fang einfach mal an, du kannst später immer noch optimieren.
 
-## WIE?
+## Wie?
 
 <Tooltipp
   toolName="Notion"
@@ -33,7 +33,7 @@ Setz dich hin und erstell das Business Model Canvas ehrlich für deine Idee. Das
   buttonText="Template duplizieren"
 />
 
-## DEEP DIVE TIPPS
+## Deep Dive
 
 <Grid>
   <Video sourceId="DOtCl5PU8F0" />

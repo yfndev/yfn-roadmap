@@ -90,7 +90,7 @@ Für jede Software kannst du googeln, ob es eine Schüler/Studenten Version gibt
 />
 </Grid>
 
-## DEEP DIVE TIPPS
+## Deep Dive
 [ ] <ins>[**Erstelle dir einen LinkedIn Account**](https://www.linkedin.com/signup/cold-join?trk=guest_homepage-basic_nav-header-join)</ins>
 
 [ ] Trage deine Bildung, Praktika und wenn vorhanden Berufserfahrung sowie ehrenamtliche Tätigkeiten ein

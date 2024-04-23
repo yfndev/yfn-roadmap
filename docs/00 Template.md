@@ -15,7 +15,7 @@ asdf
 
 asdf
 
-## WIE?
+## Wie?
 
 <Tooltipp
   toolName="FigJam"
@@ -25,7 +25,7 @@ asdf
   buttonText="Zu FigJam"
 />
 
-## DEEP DIVE TIPPS
+## Deep Dive
 
 <Grid>
   <Video sourceId="uvw-u99yj8w" />
