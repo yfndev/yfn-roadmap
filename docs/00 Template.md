@@ -1,7 +1,7 @@
 # 💡 TITLE
 
 > "QUOTE"\
-> - AUTHOR
+> ― AUTHOR
 
 <Callout>
   📍 TEXT
@@ -15,7 +15,7 @@ asdf
 
 asdf
 
-## Wie?
+## WIE?
 
 <Tooltipp
   toolName="FigJam"
@@ -25,7 +25,7 @@ asdf
   buttonText="Zu FigJam"
 />
 
-## Deep Dive Tipps
+## DEEP DIVE TIPPS
 
 <Grid>
   <Video sourceId="uvw-u99yj8w" />

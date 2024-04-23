@@ -8,7 +8,6 @@ sidebar_position: 6
 <Callout>
   🤯 Wenn du eine Software bauen willst, lernst du hier, wie du die Skills dafür bekommst.
 </Callout>
-<Spacer/>
 Erstmal ist die Frage: musst du es coden oder reicht erstmal einen No-Code Lösung? Hier bekommst du einen Überblick.
 
 ## PROGRAMMIEREN LERNEN

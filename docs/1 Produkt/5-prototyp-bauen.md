@@ -30,13 +30,13 @@ In der Folge unseres YFN Podcasts "MACHEN" spricht er darüber, wie man es schaf
 
 **Wie du einen Prototyp richtig baust:**
 
-- **Mach's selbst.** Du hast noch keine Ahnung, wie? Dann gibt es zwei Möglichkeiten: Such dir ein Team (siehe die Seite dazu) oder lerne es selbst. Wenn du es selbst lernen willst, siehe Seite "Coding". Du kannst zudem extrem viel mit No-Code Tools bauen.
+- **Mach's selbst.** Du hast noch keine Ahnung, WIE? Dann gibt es zwei Möglichkeiten: Such dir ein Team (siehe die Seite dazu) oder lerne es selbst. Wenn du es selbst lernen willst, siehe Seite "Coding". Du kannst zudem extrem viel mit No-Code Tools bauen.
 
 - **Wichtig:** schau, dass du dich nicht im Lernen von neuen Sachen verlierst. Am Ende ist es egal wie du es baust, Hauptsache du fängst an. Nutze das, was dir am leichtesten fällt.
 
 - Denke nicht darüber nach, wie skalierbar oder langfristig sinnvoll dein Prototyp ist. Du wirst eh noch zehn weitere Versionen bauen.
 
-## Wie?
+## WIE?
 
 <Tooltipp
   toolName="Figma"
@@ -54,7 +54,7 @@ Wenn jemand an einer Stelle hakt, dann siehst du direkt: "Oh Shit, hier muss ich
 
 Für User Research, schau mal in unser <ins>[Template](https://www.notion.so/a48e79b96ed242e49a33b04a8453e4c3?pvs=21)</ins>, dass du in Notion duplizieren kannst.
 
-## Deep Dive Tipps
+## DEEP DIVE TIPPS
 
 <Grid>
   <Video sourceId="II-6dDzc-80" />

@@ -20,7 +20,7 @@ Es ist ein fortlaufender Prozess, der sich durchzieht. Märkte entwickeln sich w
 <Spacer />
 <VideoFloat sourceId="9v0v5TLZKzA" >Wann weißt du, ob du Produkt Market Fit hast? </VideoFloat>
 
-## Deep Dive Tipps
+## DEEP DIVE TIPPS
 
 <Grid>
   <Video sourceId="rgaP-tMkJaw" />

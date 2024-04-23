@@ -5,7 +5,7 @@ sidebar_position: 1
 # 💡 Problem finden
 
 > "The way to get good ideas is to get lots of ideas and throw the bad ones away."\
-> - Linus Pauling
+> ― Linus Pauling
 
 <Callout>
   📍 Hier lernst du, wie du ein Problem findest, dass es wert ist gelöst zu
@@ -58,7 +58,7 @@ Vielleicht hast du Themen, mit denen du dich auskennst oder die dich interessier
 2. Ordne deine Post-its mit Problemen von **“am interessantesten” ➜ “am uninteressantesten”**. Das wichtigste Kriterium ist, was dich von den Problemen am meisten fasziniert.
 3. Brainstorme für das Problem, das am interessantesten ist, so viele Lösungsmöglichkeiten wie möglich. Im nächsten Kapitel lernst du, wie du diese Ideen in zwei Tagen testen kannst, ohne sie entwickeln zu müssen.
 
-## Wie?
+## WIE?
 
 <Tooltipp
   toolName="FigJam"
@@ -68,7 +68,7 @@ Vielleicht hast du Themen, mit denen du dich auskennst oder die dich interessier
   buttonText="Zu FigJam"
 />
 
-## Deep Dive Tipps
+## DEEP DIVE TIPPS
 
 <Grid>
   <Video sourceId="uvw-u99yj8w" />

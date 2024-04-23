@@ -85,7 +85,7 @@ Falls du das noch nicht gemacht hast, dupliziere das Template.
   buttonText="Template duplizieren"
 />
 
-## Wie?
+## WIE?
 
 <Tooltipp
   toolName="FigJam"
@@ -95,7 +95,7 @@ Falls du das noch nicht gemacht hast, dupliziere das Template.
   buttonText="Zu FigJam"
 />
 
-## Deep Dive Tipps
+## DEEP DIVE TIPPS
 
 <Grid>
   <Video sourceId="uvw-u99yj8w" />

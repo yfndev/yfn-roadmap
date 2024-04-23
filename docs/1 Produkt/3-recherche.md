@@ -56,7 +56,7 @@ Das ist verständlich, aber die komplett falsche Herangehensweise. Das Gegenteil
 ‍
 - Wenn du deine Idee öffentlich gemacht hast, ist das außerdem später ein Beweis, dass und wann du diese Idee in die Welt gesetzt hast
 
-## Wie?
+## WIE?
 
 <Tooltipp
   toolName="Notion"
@@ -65,7 +65,7 @@ Das ist verständlich, aber die komplett falsche Herangehensweise. Das Gegenteil
   buttonText="Zu den Templates"
 />
 
-## Deep Dive Tipps
+## DEEP DIVE TIPPS
 
 <Grid>
   <Video sourceId="z1iF1c8w5Lg" />
