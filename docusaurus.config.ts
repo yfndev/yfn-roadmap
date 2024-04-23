@@ -1,12 +1,7 @@
 import { themes as prismThemes } from "prism-react-renderer";
 import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
-import path from "path";
-
-const url = process.env.URL ?? "http://localhost";
-const yfnUrl = process.env.YFN_URL ?? "https://youngfounders.network";
-const baseUrl = process.env.BASE_URL ?? "/roadmap";
-const githubUrl = "https://github.com/yfndev/yfn-roadmap";
+import { baseUrl, githubUrl, url, yfnUrl } from "./src/constants";
 
 const config: Config = {
   title: "Roadmap",
@@ -84,37 +79,15 @@ const config: Config = {
       style: "dark",
       links: [
         {
-          title: "Docs",
-          items: [
-            {
-              label: "Startup Basics",
-              to: "/docs/startup-basics/intro",
-            },
-          ],
-        },
-        {
           title: "Legal",
           items: [
             {
               label: "Impressum",
-              href: process.env.YFN_URL ?? "/imprint",
+              href: yfnUrl ?? "/imprint",
             },
             {
               label: "Datenschutz",
               href: yfnUrl + "/legal/privacy",
-            },
-          ],
-        },
-        {
-          title: "Links",
-          items: [
-            {
-              label: "YFN Website",
-              href: yfnUrl,
-            },
-            {
-              label: "GitHub",
-              href: githubUrl,
             },
           ],
         },
