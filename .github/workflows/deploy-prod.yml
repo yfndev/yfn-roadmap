@@ -1,0 +1,60 @@
+name: Deploy Prod
+on:
+  push:
+    branches:
+      - main
+
+env:
+  REGISTRY: ghcr.io
+  IMAGE_NAME: ${{ github.repository }}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Log in to the Container registry
+        uses: docker/login-action@v1
+        with:
+          registry: ${{ env.REGISTRY }}
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Extract metadata (tags, labels) for Docker
+        id: meta
+        uses: docker/metadata-action@v3
+        with:
+          images: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}
+          tags: |
+            type=raw,value=prod
+
+      - name: Build and push Docker image
+        uses: docker/build-push-action@v2
+        with:
+          context: .
+          push: true
+          tags: ${{ steps.meta.outputs.tags }}
+          labels: ${{ steps.meta.outputs.labels }}
+          build-args: |
+            NODE_ENV=production
+            DOCUSAURUS_URL=https://youngfounders.network/
+            DOCUSAURUS_BASE_URL=https://youngfounders.network/roadmap/
+
+  deploy:
+    runs-on: self-hosted
+    needs: build
+    steps:
+      - run: echo ${{ secrets.GH_WORKFLOW_DISPATCH_TOKEN }}
+      - name: Workflow Dispatch
+        uses: benc-uk/workflow-dispatch@v1.2.2
+        with:
+          workflow: deploy-prod.yml
+          repo: yfndev/yfn-deployment
+          token: ${{ secrets.GH_WORKFLOW_DISPATCH_TOKEN }}
+          ref: main

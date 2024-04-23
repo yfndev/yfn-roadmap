@@ -1,6 +1,7 @@
 import { themes as prismThemes } from "prism-react-renderer";
 import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
+import { baseUrl, githubUrl, url, yfnUrl } from "./src/constants";
 
 const config: Config = {
   title: "Roadmap",
@@ -8,10 +9,10 @@ const config: Config = {
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://your-docusaurus-site.example.com",
+  url: url,
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/",
+  baseUrl: baseUrl,
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -35,9 +36,10 @@ const config: Config = {
       {
         docs: {
           sidebarPath: "./sidebars.ts",
+          routeBasePath: "/docs/startup-basics/",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/yfndev/yfn-roadmap",
+          editUrl: githubUrl + "/tree/main/",
         },
 
         theme: {
@@ -51,22 +53,25 @@ const config: Config = {
     // Replace with your project's social card
     image: "img/yfn-social-card.jpg",
     navbar: {
-      title: "Home",
       logo: {
-        alt: "Roadmap",
+        alt: "YFN",
         src: "img/logo.svg",
       },
       items: [
         {
           type: "docSidebar",
-          sidebarId: "roadmapSidebar",
+          sidebarId: "tutorialSidebar",
           position: "left",
           label: "Roadmap",
         },
-        // { to: "/blog", label: "Blog", position: "left" },
         {
-          href: "https://github.com/yfndev/yfn-roadmap",
+          href: githubUrl,
           label: "GitHub",
+          position: "right",
+        },
+        {
+          href: yfnUrl,
+          label: "YFN Website",
           position: "right",
         },
       ],
@@ -75,41 +80,15 @@ const config: Config = {
       style: "dark",
       links: [
         {
-          title: "Docs",
+          title: "Legal",
           items: [
             {
-              label: "Tutorial",
-              to: "/docs/intro",
-            },
-          ],
-        },
-        {
-          title: "Community",
-          items: [
-            {
-              label: "Main Page",
-              href: "https://stackoverflow.com/questions/tagged/docusaurus",
+              label: "Impressum",
+              href: yfnUrl ?? "/imprint",
             },
             {
-              label: "Discord",
-              href: "https://discordapp.com/invite/docusaurus",
-            },
-            {
-              label: "Twitter",
-              href: "https://twitter.com/docusaurus",
-            },
-          ],
-        },
-        {
-          title: "More",
-          items: [
-            {
-              label: "Blog",
-              to: "/blog",
-            },
-            {
-              label: "GitHub",
-              href: "https://github.com/facebook/docusaurus",
+              label: "Datenschutz",
+              href: yfnUrl + "/legal/privacy",
             },
           ],
         },
