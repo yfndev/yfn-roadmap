@@ -39,12 +39,7 @@ const config: Config = {
           // Remove this to remove the "edit this page" links.
           editUrl: "https://github.com/yfndev/yfn-roadmap",
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/yfndev/yfn-roadmap",
-        },
+
         theme: {
           customCss: "./src/css/custom.css",
         },
@@ -68,7 +63,7 @@ const config: Config = {
           position: "left",
           label: "Roadmap",
         },
-        { to: "/blog", label: "Blog", position: "left" },
+        // { to: "/blog", label: "Blog", position: "left" },
         {
           href: "https://github.com/yfndev/yfn-roadmap",
           label: "GitHub",
