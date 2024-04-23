@@ -8,7 +8,6 @@ export const Callout = ({ children }) => (
       paddingTop: "1rem",
       paddingLeft: "1rem",
       paddingRight: "1rem",
-
     }}
   >
     <div style={{ alignSelf: "center" }}>{children}</div>

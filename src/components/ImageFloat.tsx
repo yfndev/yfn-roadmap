@@ -17,12 +17,15 @@ export const ImageFloat = ({ source, text, children }) => (
       }}
     >
       <img
-        style={{ width: "100%", border: "1px solid black", marginBottom: "1rem"}}
+        style={{
+          width: "100%",
+          border: "1px solid black",
+          marginBottom: "1rem",
+        }}
         src={source}
         alt={text}
-      
       />
-      <span style={{fontWeight: "500"}}>{text}</span>
+      <span style={{ fontWeight: "500" }}>{text}</span>
     </div>
     <span>{children}</span>
   </div>

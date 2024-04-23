@@ -76,7 +76,8 @@ button:hover {
 .table-of-contents__link:hover,
 .table-of-contents__link:hover code,
 .table-of-contents__link--active,
-.table-of-contents__link--active code, .navbar__link--active{
+.table-of-contents__link--active code,
+.navbar__link--active {
   display: inline-block;
   padding: 2px 5px;
   background-color: var(--ifm-color-yfn);
