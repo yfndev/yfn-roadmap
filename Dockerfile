@@ -1,6 +1,11 @@
 FROM node:18-alpine as builder
 WORKDIR /app
 
+# Host URL
+ENV URL=
+# YFN website URL
+ENV YFN_URL=
+
 COPY package.json package-lock.json ./
 RUN npm i
 COPY . .
@@ -8,4 +13,4 @@ COPY . .
 # run with build variables
 RUN npm run build
 
-ENTRYPOINT ["npm", "run", "deploy"]
+ENTRYPOINT ["npm", "run", "serve"]

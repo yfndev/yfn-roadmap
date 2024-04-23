@@ -1,47 +1,28 @@
 ---
 sidebar_position: 1
+sidebar_label: Willkommen!
 ---
 
-# Tutorial Intro
+# Startup Basics
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Willkommen zur Young Founders Roadmap. Die erste Anlaufstelle für alle jungen Leute, die etwas aufbauen wollen, was wichtige Probleme löst
 
-## Getting Started
+🏁 Um zu starten, nutze das Inhaltsverzeichnis links (Desktop) oder oben (Mobile)
 
-Get started by **creating a new site**.
+Uns verbindet der Wille, Probleme mit innovativen Produkten zu lösen.Aber wie anfangen?
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Das Young Founders Network ist ein Non-Profit Verein mit einer Community aus 250+ der jüngsten Gründer aus ganz Deutschland.
 
-### What you'll need
+Diese Roadmap ist das, was wir gerne gehabt hätten, als wir angefangen haben, unsere Ideen umzusetzen
+- Kompakt, aufs Wesentliche reduziert, aber mit vielen sorgfältig ausgewählten Links, damit du mit den besten Ressourcen deiner Neugierde nachgehen kannst
+- Hilfreich, egal, ob du eine App, ein Hardware-Produkt oder etwas anderes aufbauen möchtest
+- Unser Wiki hat eine klare Meinung. Wir geben dir keinen Überblick über Tools, wir sagen, welches wir am besten finden, damit du so schnell wie möglich anfangen kannst.
+- In Zusammenarbeit mit der Bertelsmann Stiftung
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+# Community
 
-## Generate a new site
+Du willst kostenlos Teil der Community werden, um an unseren halbjährlichen Events teilzunehmen und auf unserer Community Plattform von anderen Mitgliedern Unterstützung zu bekommen? Hier kannst du dich dafür bewerben.
 
-Generate a new Docusaurus site using the **classic template**.
+# Feedback
 
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Dieses Wiki ist noch in der Beta-Version und wird stetig weiterentwickelt und verbessert. Wir würden uns freuen, wenn du Feedback zum Inhalt sowie Ideen und Gedanken bei Insta an @youngfoundersnetwork schreibst oder per Mail an roadmap@youngfounders.network 💛
