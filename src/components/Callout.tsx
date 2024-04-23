@@ -1,12 +1,16 @@
 export const Callout = ({ children }) => (
   <div
     style={{
-      backgroundColor: "var(--docusaurus-callout)",
+      backgroundColor: "var(--background-light)",
       display: "flex",
       alignItems: "center",
-      padding: "0.5rem",
+      alignContent: "center",
+      paddingTop: "1rem",
+      paddingLeft: "1rem",
+      paddingRight: "1rem",
+
     }}
   >
-    <span>{children}</span>
+    <div style={{ alignSelf: "center" }}>{children}</div>
   </div>
 );
