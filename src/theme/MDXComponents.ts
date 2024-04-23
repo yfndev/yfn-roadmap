@@ -12,6 +12,7 @@ import { VideoFloat } from "../components/VideoFloat";
 
 
 
+
 export default {
   // Re-use the default mapping
   ...MDXComponents,
@@ -25,4 +26,5 @@ export default {
   Spacer,
   Button,
   VideoFloat,
+
 };

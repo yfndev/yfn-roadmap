@@ -1,3 +1,72 @@
 ---
 sidebar_position: 3
 ---
+
+# 🤝 Soziale Startups als Zukunft
+
+_by Sandra Zillinger (Bertelsmann Stiftung)_
+
+Dein Unternehmen soll nicht nur Gewinn bringen, sondern auch einen positiven Einfluss auf die Gesellschaft haben. Dann bist du vielleicht gerade dabei, ein Sozialunternehmen zu gründen. Was das ist und was es dabei zu beachten gibt, erfährst du hier.
+
+## Input
+
+Die Gesellschaft mit unternehmerischer Tätigkeit verbessern – das ist Sozialunternehmertum. Ein:e Sozialunternehmer:in sieht ein gesellschaftliches Problem und fragt sich: Wie kann ich dieses Problem mit innovativen Lösungen verbessern und finanzieren?
+
+Geld und Gewinn ist bei Sozialunternehmen eher Mittel zum Zweck und nicht oberstes Ziel wie bei anderen Unternehmensformen (Gewinnmaximierung) anzusehen. Das oberste Ziel bei Sozialunternehmen ist vielmehr ihre gesellschaftliche Wirkung.
+
+<img src="/content/3-growth-3-soziale-startups-1.png"/>
+
+Da Zielgruppen von gesellschaftlichen Problemen oft nicht viel Geld haben, ist vor allem die Frage der Finanzierung eine große unternehmerische Herausforderung. Will man beispielsweise die Bildung in Deutschland verbessern, kann man nicht damit rechnen, dass alle Schüler:innen monatlich ihr Taschengeld an das Unternehmen überweisen. Somit ist der Spagat zwischen Wirkung und Finanzierung nicht nur in der Gründungsphase beim Entwickeln des Geschäftsmodells relevant, sondern beeinflusst auch den späteren Arbeitsalltag des Sozialunternehmens.
+
+## Können soziale Modelle Geld einbringen?
+
+Typische Themen von Sozialunternehmen sind Bildung, nachhaltiger Konsum & Produktion, Gesundheit, menschwürdige Arbeit & Wirtschaftswachstum. Viele Sozialunternehmen richten sich an den Sustainable Development Goals (SDGs) der Vereinten Nationen aus, die gesetzt wurden, um Lösungen für Herausforderungen wie Klimawandel, Armut und Hunger  bis 2030 zu lösen. Bekannte Beispiele für Sozialunternehmen sind ecosia (Suchmaschine), Wetell (Mobilfunk) oder Veja (Sneaker).
+
+## Wie sieht so eine Rechtsform aus?
+
+Die Rechtsformen von Sozialunternehmen sind sehr unterschiedlich. Bei gemeinnützigen Rechtsformen (z.B. e.V.) erhalten die Organisationen steuerliche Begünstigungen, müssen auch das Gemeinnützigkeitsrecht stets befolgen und über ihre Gemeinnützigkeit dem Finanzamt Bericht erstatten. Sind Sozialunternehmen als GmbH oder UG organisiert sind, werden die Gewinne oft für gute Zwecke reinvestiert.
+
+| Rechtsform                  | Für wen geeignet?                                                         | Was ist zu beachten?                                                                                                                                                                                    |
+| --------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| e.V. (eingetragener Verein) | Keine Gewinnorientierung, soziale Mission                                 | Gründung nur mit mindestens sieben Mitgliedern möglich; es muss ein Vorstand gebildet werden; jedes Vereinsmitglied hat eine Stimme bei Entscheidungen                                                  |
+| gGmbH, gUG, gAG             | Keine Gewinnorientierung, soziale Mission                                 | Gründung allein oder im Team; Stammkapital muss erbracht werden; Haftung ist beschränkt; Geschäftszweck muss gemeinnützig, mildtätig oder kirchlich sein (s. unten); Gewinne werden nicht ausgeschüttet |
+| UG, GmbH, AG                | Soziale oder gewerbliche Mission, soziale Mission mit gewerblichem Anteil | Gründung allein oder im Team; Stammkapital muss erbracht werden; Haftung ist beschränkt                                                                                                                 |
+
+<Video sourceId="9_g5RqwW51I" />
+
+## Wie?
+
+Für Sozialunternehmen gibt es spezifische Unterstützungs- & Beratungsangebote, z.B. hier:
+<ins>[**Pro Bono Deutschland**](https://www.pro-bono-deutschland.org/) </ins>
+
+Hier gibt es ein Business Model Canvas für Sozialunternehmen:
+<ins>[**Social Business Canvas**](https://www.socialbusinessmodelcanvas.com/get-canvas/) </ins>
+
+Karte mit Anlaufstellen für Sozialunternehmertum:
+<ins>[**Karte mit Anlaufstellen für Sozialunternehmertum**](https://www.kartevonmorgen.org/m/main?c=49.7880,12.7520&z=5.65&tag=gr%C3%BCnder%C3%B6kosystem&mapColorMode=gray) </ins>
+
+## Action Item
+
+Willst du einmal ausprobieren, wie es ist, sozialunternehmerisch tätig zu sein?
+
+1. Was nervt dich richtig in der Art, wie wir leben? Was müsste man dringend gesellschaftlich verbessern?
+2. Was braucht es, um das Problem zu lösen? Wer hat ein Interesse daran, die Lösung zu finanzieren? Was müsstest du dafür tun? Wie kannst du beweisen, dass deine Idee gut ist (Wirkung erzielt)?
+
+Wenn du schon gegründet hast, frage dich: Verbessere ich mit meinem Unternehmen die Gesellschaft? Kann ich etwas in meinem Unternehmen verändern, sodass es die Gesellschaft verbessert?
+
+## Deep Dive
+
+Weitere Inspration:\
+<ins>[**Gründer Plattform - Social Entrepeneurship**](https://gruenderplattform.de/gruenderseminare/social-entrepreneurship) </ins>
+
+<ins>[**Changemaker Playbook**](https://changemaker-academy.org/changemaker-playbook/) </ins>
+<Spacer/>
+
+<ins>[**Skala Campus**](https://www.skala-campus.org/kurse/) </ins>
+
+<Spacer/>
+<Grid>
+<iframe  src="https://open.spotify.com/embed/episode/1fYyykgvLf76bZyteKDVNC?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  <Video sourceId="qNZX-0q3bk8" />
+  
+</Grid>
