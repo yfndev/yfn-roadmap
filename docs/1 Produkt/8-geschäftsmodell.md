@@ -43,7 +43,7 @@ In einer frühen Startup-Phase ist die Auswahl des passenden Geschäftsmodells u
 - Vorteil: vorhersehbare wiederkehrende Einnahmen, Skalierbarkeit.
 - Herausforderung: Risiko von Kundenabwanderung, hohe Kundenakquisitionskosten
 
-## Pricing Modelle
+## PRICING MODELLE
 (Wie du deinen Preis festlegen kannst)
 
 1. **Competition-Based Pricing**

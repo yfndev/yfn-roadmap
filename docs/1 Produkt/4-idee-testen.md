@@ -9,9 +9,7 @@ sidebar_position: 4
   📍 Du hast jetzt ein erstes Problem oder sogar schon eine Lösungsidee gefunden? Dann solltest du schauen, ob es überhaupt technisch + finanziell klappen kann.
 </Callout>
 
-
 ## Inhalt
-
 Du brauchst keine Investoren, ein riesiges Team oder einen Geldkoffer für eine Agentur, um dein Produkt zu testen und zu bauen. Mit Lean-Start-up Methoden kannst du ohne Geld und mit wenig Aufwand testen, ob Leute deine Idee brauchen.
 
 Vielleicht entwickelst du eine Lösung, dass ein Problem löst, für das auch du die Zielgruppe bist. Das ist okay. Du solltest aber wissen, dass viele Start-ups junger Leute deshalb scheitern:
