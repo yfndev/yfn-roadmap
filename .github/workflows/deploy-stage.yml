@@ -2,7 +2,7 @@ name: Deploy Staging
 on:
   push:
     branches:
-      - 'staging'
+      - "staging"
   pull_request:
     types:
       - labeled
