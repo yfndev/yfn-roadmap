@@ -12,23 +12,30 @@
     "serve": "docusaurus serve",
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
-    "typecheck": "tsc"
+    "typecheck": "tsc",
+    "format": "prettier --write ."
   },
   "dependencies": {
     "@dhaiwat10/react-link-preview": "^1.15.0",
     "@docusaurus/core": "3.2.1",
     "@docusaurus/preset-classic": "3.2.1",
     "@mdx-js/react": "^3.0.0",
+    "autoprefixer": "^10.4.19",
+    "axios": "^1.6.8",
     "clsx": "^2.0.0",
+    "postcss": "^8.4.38",
+    "prettier": "^3.2.5",
     "prism-react-renderer": "^2.3.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
+    "react-helmet": "^6.1.0",
     "react-lite-youtube-embed": "^2.4.0"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "3.2.1",
     "@docusaurus/tsconfig": "3.2.1",
     "@docusaurus/types": "3.2.1",
+    "tailwindcss": "^3.4.3",
     "typescript": "~5.2.2"
   },
   "browserslist": {

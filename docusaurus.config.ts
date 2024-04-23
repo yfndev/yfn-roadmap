@@ -41,6 +41,7 @@ const config: Config = {
           // Remove this to remove the "edit this page" links.
           editUrl: githubUrl + "/tree/main/",
         },
+
         theme: {
           customCss: "./src/css/custom.css",
         },
@@ -59,9 +60,9 @@ const config: Config = {
       items: [
         {
           type: "docSidebar",
-          sidebarId: "tutorialSidebar",
+          sidebarId: "startupBasicsSidebar",
           position: "left",
-          label: "Roadmap",
+          label: "Startup Basics",
         },
         {
           href: githubUrl,
