@@ -91,6 +91,7 @@ Für jede Software kannst du googeln, ob es eine Schüler/Studenten Version gibt
 </Grid>
 
 ## Deep Dive
+
 - [ ] <ins>[**Erstelle dir einen LinkedIn Account**](https://www.linkedin.com/signup/cold-join?trk=guest_homepage-basic_nav-header-join)</ins>
 
 - [ ] Trage deine Bildung, Praktika und wenn vorhanden Berufserfahrung sowie ehrenamtliche Tätigkeiten ein
@@ -106,7 +107,6 @@ Für jede Software kannst du googeln, ob es eine Schüler/Studenten Version gibt
 - [ ] LinkedIn funktioniert mit beidseitigen Vernetzungen. Um anzufangen und nach einem aktiven Profil auszusehen, kannst du dich mit Mitgliedern aus unserem Young Founders Network vernetzen. Klicke hier, um auf LinkedIn Personen zu sehen, die im YFN sind (du kannst damit übrigens auch nach Mitarbeitern in jedem beliebigen Unternehmen suchen ;)
 
 <Spotify source="https://open.spotify.com/episode/5lUY1Yr4s3yQFhtPIYjlDL"/>
-
 
 <Spacer/>
 Sehr zu empfehlende Folge aus unserem MACHEN Podcast, mit purem Value wie man als junger Gründer LinkedIn für sich nutzen kann.

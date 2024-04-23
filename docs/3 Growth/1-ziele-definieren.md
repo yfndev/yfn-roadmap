@@ -4,7 +4,6 @@ sidebar_position: 1
 
 # 🎯 Ziele definieren
 
-
 <Callout>
   📍 If you’re achieving all your goals, you’re not setting them aggressively enough
 </Callout>
@@ -24,7 +23,6 @@ Lege eigene OKRs auf 12 Monate fest und breche sie anschließend auf Quartale au
 Falls du ein Team hast: Nehmt euch 60 min und definiert sie gemeinsam.
 
 Du kannst dafür <ins>[**dieses Template**](https://www.notion.so/joels-code/OKRs-71e38abb18924ddc9e3c89380144bc2b?pvs=4)</ins> duplizieren.
-
 
 ## Deep Dive
 

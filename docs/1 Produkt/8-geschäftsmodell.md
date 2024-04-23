@@ -13,62 +13,86 @@ sidebar_position: 7
 In einer frühen Startup-Phase ist die Auswahl des passenden Geschäftsmodells und der geeigneten Preisstrategie entscheidend. Hier sind einige Aspekte, die junge Unternehmer in Betracht ziehen sollten:
 
 ## Typische Geschäftsmodelle
+
 (Wie du Geld bekommst)
 
 1. **Freemium**
+
 - Startups bieten kostenlose Basisversion des Produkts/Dienstes an
 - Ziel ist breite Nutzerbasis, die später für erweiterte Funktionen zahlt
 - Beispiele: Dropbox und Canva
 - Vorteil: niedrige Einstiegshürde für Nutzer
 - Herausforderung: Nutzer zu zahlenden Kunden konvertieren
+
 2. **Affiliate**
+
 - Startups verdienen durch Provisionen
 - Generieren Traffic oder Verkäufe für andere Unternehmen
 - Beispiele: Amazon Associates und Shopify
 - Vorteil: geringe Overhead-Kosten
 - Herausforderung: Abhängigkeit vom Vertrauen in Partnermarken
+
 3. **Pay-as-You-Go**
+
 - Kunden zahlen basierend auf tatsächlicher Nutzung/Verbrauch
 - Häufig bei Cloud-Diensten wie AWS
 - **Vorteil:** flexible Preisgestaltung, Anpassung an Kundenverbrauch
 - Herausforderung: komplexe Abrechnung, Überwachung der Nutzung
+
 4. **Transactional**
+
 - Direkte, einmalige Transaktionen zwischen Kunde und Unternehmen
 - Üblich im Einzelhandel oder E-Commerce
 - Fokus auf Einzelverkäufen
 - Vorteil: einfache Transaktionen, keine langfristigen Kundenverpflichtungen
 - Herausforderung: weniger vorhersehbare Einnahmen, möglicherweise geringere Kundenbindung
+
 5. **SaaS (Software-as-a-Service)**
+
 - Unternehmen bieten Softwareanwendungen über Internet gegen wiederkehrende Gebühr an
 - Vorteil: vorhersehbare wiederkehrende Einnahmen, Skalierbarkeit.
 - Herausforderung: Risiko von Kundenabwanderung, hohe Kundenakquisitionskosten
 
 ## Pricing Modelle
+
 (Wie du deinen Preis festlegen kannst)
 
 1. **Competition-Based Pricing**
+
 - Orientierung an Wettbewerberpreisen
 - Nützlich in gesättigten Märkten
 - Kleine Preisunterschiede können entscheidend sein
+
 2. **Cost-Plus Pricing**
+
 - Berücksichtigt Produktions- und Herstellungskosten plus Aufschlag
 - Geeignet für physische Produkte
 - Variable Kosten sind leicht zu berechnen
+
 3. **Value-Based Pricing**
+
 - Preissetzung basiert auf wahrgenommenem Kundenwert
 - Effektiv bei einzigartigen Produkten/Dienstleistungen
 - Geeignet bei hohem wahrgenommenem Wert
+
 4. **Penetration Pricing**
+
 - Niedrige Preise zu Beginn
 - Ziel: Schnelle Marktanteilsgewinnung und Kundenbasisaufbau
+
 5. **Skimming Pricing**
+
 - Anfangs hohe Preise, die mit der Zeit gesenkt werden
 - Geeignet für innovative Produkte
 - Ziel: Ansprechen eines Premiumsegments
+
 6. **Premium Pricing**
+
 - es werden höhere Preise für Produkte oder Dienstleistungen festgelegt,
-damit sie als Premium oder hochwertig angesehen werden
+  damit sie als Premium oder hochwertig angesehen werden
+
 7. **Economy Pricing**
+
 - Produkte zu niedrigen Preisen
 - Ziel: Ansprechen von Massenmärkten
 - Nutzung kostengünstiger Materialien oder Produktionsmethoden

@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 ---
+
 # 🤝 Gründungsteam aufstellen
 
 > "Alone we can do so little, together we can move mountains."
@@ -17,7 +18,7 @@ Du kannst alleine erfolgreich Unternehmen aufbauen. Aber es ist statistisch viel
 Jeder in der aktiv an deinem Projekt mitarbeitet, ist ein Teammitglied, auch du.
 
 2. **Gründer**
-  
+
 Streng genommen sind das Gründerteam die Leute, die das Unternehmen zusammen gegründet haben.\
 Vor Gründung ist der Begriff etwas flexibel. Man könnte die Leute, die zusammen die Absicht haben zu gründen, als Gründer bezeichnen.
 
@@ -45,9 +46,8 @@ Im Grunde überall:
 - Family, wobei das schnell zu vielen Konflikten führen kann :)
 - Suche aktiv an Unis, die haben meistens einen Chat Kanal. Schreib e die Fachschaft an oder schreibe nett Studierende auf LinkedIn an, ob sie etwas teilen können
 
-
-
 ## Wie überzeuge ich Leute in mein Team zu kommen?
+
 Alle Co-Founder und Mitarbeiter sollten intrinsisch motiviert sein. Also einen eigenen Grund haben am Projekt zu arbeiten.
 
 Doch die Idee war von dir! Wie bekommst du nun Leute dazu dir mit deiner Idee zu folgen aber trotzdem intrinsisch motiviert zu sein? Das klingt erst wie ein Wiederspruch. Wenn du das schaffst kannst du dir ein langfristiges Team schaffen, falls nicht wird es früher oder später zerbrechen.
@@ -67,17 +67,17 @@ Das Wichtigste bei einem neuen Teammitglied ist, dass er/sie zu euch passt.
 Ein Wochenende gemeinsam brainstormen und arbeiten. Dann bekommt man schnell ein Gefühl dafür, ob die Person passt oder eben nicht.
 
 ## Action Item
+
 1. Baue ein Notion Board mit Rollen, die du in deinem Startup benötigst.
 
 2. Mache eine Liste mit ALLEN Wegen, durch die du Teammitglieder finden könntest. Fange an sie abzuarbeiten!
 
-2. Falls ihr schon ein Team habt, dann lege fest, welche Rollen im Team sind.
-Dafür kannst du folgendes <ins>[**Notion Template**](https://www.notion.so/Role-expectations-b42c1852b5594e9b9af2f76a933c965c?pvs=21)</ins> duplizieren.
+3. Falls ihr schon ein Team habt, dann lege fest, welche Rollen im Team sind.
+   Dafür kannst du folgendes <ins>[**Notion Template**](https://www.notion.so/Role-expectations-b42c1852b5594e9b9af2f76a933c965c?pvs=21)</ins> duplizieren.
 
-3. Bespreche mit deinem Team, wie ihr eure Anteile verteilen wollt und halte es in einem Dokument fest. (Dann entsteht später kein Streit mit “ja wir hatten es doch anders abgemacht”). Stichwort zum Recherchieren: Vested Shares
+4. Bespreche mit deinem Team, wie ihr eure Anteile verteilen wollt und halte es in einem Dokument fest. (Dann entsteht später kein Streit mit “ja wir hatten es doch anders abgemacht”). Stichwort zum Recherchieren: Vested Shares
 
-4. Redet offen über eure persönlichen Ziele. Dafür gibt es zum Beispiel <ins>[**solche Fragen**](https://www.ycombinator.com/blog/10-questions-to-discuss-with-a-potential-co-founder)</ins>.
-
+5. Redet offen über eure persönlichen Ziele. Dafür gibt es zum Beispiel <ins>[**solche Fragen**](https://www.ycombinator.com/blog/10-questions-to-discuss-with-a-potential-co-founder)</ins>.
 
 ## Wie?
 

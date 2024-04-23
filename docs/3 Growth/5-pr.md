@@ -23,16 +23,16 @@ Viele Tipps für dich, um in Kontakt mit Journalisten zu kommen :)
 
 - [ ] Überlege du oder Leute in deinem Umfeld interessante Kontakte in die Medienwelt haben
 - [ ] Schreibe eine Liste mit potentiellen lokalen Journalisten auf
-  ⇒ Dupliziere dafür am besten dieses Notion Template: [Notion’s PR & media tracker](https://www.notion.so/Notion-s-PR-media-tracker-d9123763f336402b8c64db225b792edc?pvs=21)
+      ⇒ Dupliziere dafür am besten dieses Notion Template: [Notion’s PR & media tracker](https://www.notion.so/Notion-s-PR-media-tracker-d9123763f336402b8c64db225b792edc?pvs=21)
 - [ ] Schreibe eine Liste mit Podcasts in eurer Niesche, die spannend & praktisch fürs Wachstum wären
 - [ ] Verfasse eine Pressemitteilung zu euch, die ihr an verschiedene Lokale Zeitungen schreibt, mit dem CTA mal mit euch zu telefonieren und ob es spannend für sie wäre.
 
-
 ## Deep Dive
- **Diese 3 teilige Serie ist hilfreich, um die erste Pressemitteilung zu schreiben.**
+
+**Diese 3 teilige Serie ist hilfreich, um die erste Pressemitteilung zu schreiben.**
 <Grid>
-  <Video sourceId="PgDSxeOJtOM" />
-  <Video sourceId="WCbETuZckVw" />
-  <Video sourceId="Zdh6Zv5nsdg" />
+<Video sourceId="PgDSxeOJtOM" />
+<Video sourceId="WCbETuZckVw" />
+<Video sourceId="Zdh6Zv5nsdg" />
 
 </Grid>

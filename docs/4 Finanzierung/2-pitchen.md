@@ -24,17 +24,17 @@ Wichtig ist auch deine Idee als sogenannten Elevator pitch erklären zu können.
 Du hast 30-60 Sekunden Zeit und musst deinen Gegenüber von dir und deiner Idee überzeugen können, bevor der Fahrstuhl oben ankommt.
 
 ## Beispiele
+
 In Frühling 2022 hat Pitch **100 Pitchdecks von female funded Startups** gezeigt und ist eine tolle Inspiration\
  <ins>[**Female Founded Startups**](https://pitch.com/presentations/collections/Female-Founded-Startups-6W5Xze7LB8o85KvJhf4hn3j8)</ins>
 
 ## Action Item
+
 1. Erstell ein Pitchdeck
 2. Nimm dich beim pitchen mit dem Handy auf
 3. Präsentier das Pitchdeck 5 Leuten (nicht friends & family) und sammle Feedback ein
 
 ## Welches Tool?
-
-
 
 <Tooltipp
   toolName="Pitch"

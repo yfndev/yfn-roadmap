@@ -16,9 +16,7 @@ export const TikTok = ({ source }) => {
         data-video-id="7049424535698836742"
         style={{ maxWidth: "605px", minWidth: "325px" }}
       >
-        <section>
-         
-        </section>
+        <section></section>
       </blockquote>
     </div>
   );

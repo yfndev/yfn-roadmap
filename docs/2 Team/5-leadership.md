@@ -8,14 +8,16 @@ sidebar_position: 5
 > ― Antoine de Saint-Exupéry
 
 ## Intro
+
 Als Unternehmer sind zwei Punkte für die Entwicklung deiner Mitarbeiter entscheidend:
 
 1. Zunächst ist es wichtig, schon vor der Einstellung genau zu überlegen, wen du für welche Position brauchst. Wenn du die richtige Person findest, läuft vieles fast von selbst, und du musst weniger führen.
-2. Nach dem Einstieg des Mitarbeiters geht es um dessen Weiterentwicklung, nicht nur um Führung. Überlege, was du dem Mitarbeiter bieten kannst, damit er sich einbringen und entwickeln kann. Es geht auch darum, Klarheit darüber zu haben, wofür du ihn bezahlst und wie ihr effektiv kommunizieren könnt. 
- 
+2. Nach dem Einstieg des Mitarbeiters geht es um dessen Weiterentwicklung, nicht nur um Führung. Überlege, was du dem Mitarbeiter bieten kannst, damit er sich einbringen und entwickeln kann. Es geht auch darum, Klarheit darüber zu haben, wofür du ihn bezahlst und wie ihr effektiv kommunizieren könnt.
+
 Ein professionell gestaltetes Arbeitsumfeld, in dem sich die Mitarbeiter wertgeschätzt fühlen, ist dabei sehr wichtig.
 
 ## So geht gute Führung
+
 1. **Nach Werten situativ führen**
 
 Als Führungskraft ist es wichtig, dass du situativ und wertorientiert führst. Das bedeutet, dass du deinen Führungsstil je nach Situation anpasst. Nicht immer ist ein kooperativer Ansatz die beste Wahl; manchmal musst du direktive Entscheidungen treffen und die Verantwortung dafür übernehmen.
@@ -41,9 +43,10 @@ Jeder deiner Mitarbeiter trägt dazu bei, die Kultur deines Unternehmens zu form
 
 Fördere also eine Kultur, in der jeder seinen Teil beitragen kann und sich wertgeschätzt fühlt :)
 
-
 ## Wie gehe ich mit sozialen Unterschieden um?
+
 (wenn Mitarbeiter beispielsweise älter ist)
+
 1. **Vertrauen in uns selbst ist das wichtigste**
 
 Auch wenn du nicht die Erfahrung der Welt hast, ist es wichtig, dass Mitarbeiter den richtigen Spirit/Idee von der Zukunft hat. Ihr es also in die selbe Richtung entwickelt.
@@ -65,8 +68,6 @@ Selbst wenn sich die Person als Experte schlechthin ausgibt und du es nicht beur
 Am Ende des Tages lernst du nur durch Erfahrung selbst. Diese kommt mit der Zeit und mit deiner Verantwortung. Von außen kann man hier aber auch wieder Erfahrungen von vertrauensvollen Personen hinzubekommen.
 
 Achte drauf: Es gibt keinen Allgemeinrat. Es wird immer auf die jeweilige Situation ankommen
-
-
 
 ## Deep Dive
 

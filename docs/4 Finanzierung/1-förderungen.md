@@ -43,4 +43,3 @@ Tipps von Celina und Bersa, wie sie 60k Umsatz mit Wettbewerben gemacht haben.
 <Video sourceId="VrdrVRVHgvE" time="511"/>
 
 </Grid>
-

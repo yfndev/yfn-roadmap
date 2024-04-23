@@ -18,7 +18,7 @@ Wie viel gehört mit vom Produkt und wie viel gebe ich an Teammitglieder ab:
 - Vesting Schedule
 
 1. **Alle Anteile bei mir**
-   
+
 Vergiss es. Sofern du nicht vorhast, deine Teamkollegen zu bezahlen, kommst du mit dieser Variante nicht weit - und es ist die komplett falsche Einstellung. Das Team sollte durch Anteile incentiviert sein, damit alle das beste geben.
 Bei Anteilen geht es außerdem nicht nur um den geteilten Gewinn - auch um geteiltes Risiko.
 
@@ -50,7 +50,7 @@ Sollte sich dennoch nach einiger Zeit (1-2 Jahre, vor Gründung) eine große Dis
 (Umverteilung wird mit einem Investment / Bewertung steuerlich deutlich komplizierter)
 
 4. **Share Vesting - Anteile Verteilt auf Zeit**
-   
+
 Share Vesting ist ein wichtiges Konzept in Startups, um die langfristige Bindung und Fairness im Team sicherstellt. Es ermöglicht Teammitgliedern, ihre Anteile über einen festgelegten Zeitraum zu "verdienen", was besonders wichtig ist, um sicherzustellen, dass die Beiträge aller fair berücksichtigt werden.
 
 Der Kern von Share Vesting liegt in einem typischen Vesting-Zeitraum von 4 Jahren mit einer einjährigen Cliff-Periode. Dies bedeutet, dass Teammitglieder ihre Anteile schrittweise über 4 Jahre erhalten, wobei im ersten Jahr noch keine Anteile zugeteilt werden. Dieses System schafft einen Anreiz für Langzeitbindung und kontinuierlichen Beitrag zum Unternehmenserfolg.
@@ -63,7 +63,6 @@ Es zeigt Leuten die nach einem Jahr rausgehen, dass sie jetzt nicht entspannte 2
 
 Überlegt euch gemeinsam, wie und über welchen Zeitraum ihr eure Anteile verteilen wollt.
 Mehr Downloads für Startups in einer frühen Phase könnt ihr <ins>[**hier**](https://standardsinstitute.de/standardvertraege)</ins> herunterladen.
-
 
 ## Deep Dive
 

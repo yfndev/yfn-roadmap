@@ -4,7 +4,6 @@ sidebar_position: 6
 
 # 💻 Coding
 
-
 <Callout>
   🤯 Wenn du eine Software bauen willst, lernst du hier, wie du die Skills dafür bekommst.
 </Callout>
@@ -18,11 +17,9 @@ Wir empfehlen zwei unterschiedliche Wege, um programmieren zu lernen.
 
 Wenn du am besten strukturiert durch einen Kurs/Tutorial lernst, empfehlen wir dir <ins>[Codecademy](codecademy.com/)</ins>. Dort kannst du verschiedene Programmiersprachen lernen. Man bekommt dort eine Erklärung und muss es dann direkt mit praktischen Aufgaben in einer Programmierumgebung üben.
 
-
 2. **Learning by doing**
 
 Wenn du lieber mit deinem Projekt als festes Ziel vor Augen lernst, gibt es eine unschlagbare Methode: Einfach anfangen und JEDEN einzelnen Schritt googeln bzw. noch besser ChatGPT. Du nutzt noch keine KI Modelle als Assistenz? Dann dauert es halt 3x so lange alles nachzuschauen. Nutze die Möglichkeiten, die du hast.
-
 
 ‍
 **Frag einfach ganz simpel jeden einzelnen Schritt:**\
@@ -47,8 +44,6 @@ Mit dem visuellen Builder kannst du eine App bauen, die du sogar in den App-Stor
 
 <ins>[Adalo](https://www.adalo.com/)</ins> ist eine Alternative, die noch etwas simpler ist als FlutterFlow.\
 <ins>[Hier die Unterschiede.](https://www.youtube.com/watch?v=HNwSEo0PBQ4)</ins>
-
-
 
 ## Action Item
 

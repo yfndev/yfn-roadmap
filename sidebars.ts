@@ -73,14 +73,14 @@ const sidebars: SidebarsConfig = {
       ],
     },
     {
-      type: 'link',
-      label: 'Learn to learn', 
-      href: 'https://www.youtube.com/watch?v=O96fE1E-rf8&t=619s',
+      type: "link",
+      label: "Learn to learn",
+      href: "https://www.youtube.com/watch?v=O96fE1E-rf8&t=619s",
     },
     {
-      type: 'link',
-      label: 'Ressources', 
-      href: 'https://joels-code.notion.site/Channels-Courses-6cf8fd0683e447d988538d745ff202ac?pvs=4', 
+      type: "link",
+      label: "Ressources",
+      href: "https://joels-code.notion.site/Channels-Courses-6cf8fd0683e447d988538d745ff202ac?pvs=4",
     },
     // {
     //   type: "html",

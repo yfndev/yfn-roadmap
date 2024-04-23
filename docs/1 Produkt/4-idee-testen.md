@@ -4,12 +4,12 @@ sidebar_position: 4
 
 # 🧪 Testen
 
-
 <Callout>
   📍 Du hast jetzt ein erstes Problem oder sogar schon eine Lösungsidee gefunden? Dann solltest du schauen, ob es überhaupt technisch + finanziell klappen kann.
 </Callout>
 
 ## Inhalt
+
 Du brauchst keine Investoren, ein riesiges Team oder einen Geldkoffer für eine Agentur, um dein Produkt zu testen und zu bauen. Mit Lean-Start-up Methoden kannst du ohne Geld und mit wenig Aufwand testen, ob Leute deine Idee brauchen.
 
 Vielleicht entwickelst du eine Lösung, dass ein Problem löst, für das auch du die Zielgruppe bist. Das ist okay. Du solltest aber wissen, dass viele Start-ups junger Leute deshalb scheitern:
@@ -40,12 +40,11 @@ Wie kannst du herausfinden, ob jemand dein Produkt kauft, ohne es zu bauen? Ganz
 
 - Zum Beispiel kannst du eine einfache Website bauen, bei der du dein Produkt vorstellst, als könnte man es schon kaufen. Wenn die Leute dann auf Kaufen drücken, kommen sie auf eine Seite mit “Leider ist unsere Beta-Version voll für Software oder “Das Produkt ist ausverkauft” für Hardware.
 
-
 ## Smoke Test-Outreach: Deine Zielgruppe aufbauen
 
-Outreach ist ein entscheidender Teil eines jeden Smoke Tests. Es reicht nicht aus, eine Landingpage zu erstellen; du musst potenzielle Kunden dazu bringen, sie zu besuchen. 
+Outreach ist ein entscheidender Teil eines jeden Smoke Tests. Es reicht nicht aus, eine Landingpage zu erstellen; du musst potenzielle Kunden dazu bringen, sie zu besuchen.
 
-Dazu könnten Social Media, E-Mail-Marketing, Content-Marketing, SEO, bezahlte Werbung oder eine Kombination dieser Methoden gehören. 
+Dazu könnten Social Media, E-Mail-Marketing, Content-Marketing, SEO, bezahlte Werbung oder eine Kombination dieser Methoden gehören.
 
 Denk daran, das Ziel ist es, Menschen anzuziehen, die wahrscheinlich an deinem Produkt interessiert sind.
 
@@ -55,7 +54,6 @@ Denk daran, das Ziel ist es, Menschen anzuziehen, die wahrscheinlich an deinem P
 - Schau nach, welche Kanäle am effektivsten wären, um deine Zielgruppe zu erreichen
 
 <Video sourceId="SLvDvNL9OIU" />
-
 
 ## Deep Dive
 

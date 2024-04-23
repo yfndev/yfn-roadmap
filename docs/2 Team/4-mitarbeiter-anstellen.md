@@ -4,7 +4,6 @@ sidebar_position: 4
 
 # ✍🏻 Mitarbeiter einstellen
 
-
 <Callout>
   📍 Wenn dein Startup wächst, kommst du vielleicht an den Punkt, an dem das Co-Founder-Team nicht mehr alle Aufgaben erledigen kann: Ihr braucht Verstärkung.
 </Callout>
@@ -23,13 +22,12 @@ Ein strukturiertes Interview hilft dir dabei, tiefergehend zu prüfen und nicht 
 
 Ein Teil des Interviews sollte auch der Persönlichkeitsprüfung gewidmet sein, um zu sehen, ob der Kandidat ins Team passt und auch smart genug für eure Probleme ist 💡
 
-
 ## Referenzen
+
 Wenn du dir unsicher bist, dann hol dir Referenzen von vorherigen Arbeitgebern zu prüfen.
 Falls der Bewerber herausragend war oder besonders unzuverlässig, wirst du es aus erster Hand hören.
 
 Lass dir zudem bisherige Projekte zeigen und erklären, die relevant für die Rolle sind. Beispielsweise bisherige Apps die gebaut wurden, falls es eine Bewerbung in der App Entwicklung ist.
-
 
 ## Beispiel "JuniorJob"
 
@@ -55,8 +53,8 @@ Bei Content Erstellung brauchen wir beispielsweise weniger super erfahrene Leute
 
 Beim Sales haben wir gemerkt, dass es sinnvoll ist wenn die Person erfahrener ist und Ahnung hat wie man mit Leuten spricht und CRM nutzen kann.
 
-
 ## Worauf solltest du im Interview Prozess achten?
+
 Interviews würde ich immer in Person machen und dann merkst du schnell, ob die Person passt und dafür brennt.
 
 Probearbeiten ist perfekt, um zu schauen ob die Rolle zu einem neuen Teammitglied passt oder nicht.
@@ -70,7 +68,7 @@ Ich denke jedes Startup ist nicht in der Situation, dass sie sagen irgendwo ist 
 Mir ist besonders wichtig:
 
 - pünktlich sein
-(besonders Deadlines)
+  (besonders Deadlines)
 - zuverlässig sein
 - in Kommunikation zuverlässig und ehrlich antwortet
 - Tickets ordentlich dokumentieren
@@ -81,6 +79,7 @@ Wenn eine Person nicht reinpasst, dann muss sie eben wieder gehen.
 Als wir am Anfang viele 450€ Mitarbeiter hatten, mussten wir teilweise viel Zeit damit verbringen Aufgaben zu erklären. Oftmals hätte ich es schneller selber erklären können. Prozesse optimieren und dokumentieren ist dann wichtig
 
 ## Mitarbeiter onboarding
+
 Onboarding ist mehr als nur Leute einstellen. Es geht darum, sie so ins Team zu bringen, dass sie sich voll entfalten können. Je nach Job kann das Onboarding verschieden sein. Es sollte geklärt werden, mit wem die Person arbeitet und in 1 bis 4 Wochen abgeschlossen sein.
 
 Danach geht es mit regelmäßigen Treffen mit dem Mentor weiter, um Feedback zu geben und weiteres Wachstum zu fördern 🙌
@@ -96,7 +95,6 @@ Ein Onboarding ist fertig, wenn jemand sowohl fachlich als auch persönlich ins 
 Hier ein beispielhaftes Template zum duplizieren, wie eine Onboarding-Seite aussehen kann, um alle Infos anzugeben. Aber nie komplizierter machen als es sein muss.
 
 ## Action Item
-
 
 <Tooltipp
   toolName="Role Expectation Template"

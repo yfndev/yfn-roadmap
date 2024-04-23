@@ -30,13 +30,12 @@ Das Young Founders Network ist ein Non-Profit Verein mit einer Community aus 250
 
 ## COMMUNTIY
 
-Du willst kostenlos Teil der Community werden, um an unseren halbjährlichen Events teilzunehmen und auf unserer 
+Du willst kostenlos Teil der Community werden, um an unseren halbjährlichen Events teilzunehmen und auf unserer
 Community Plattform von anderen Mitgliedern Unterstützung zu bekommen? [**Hier**](https://youngfounders.network/become-member) kannst du dich dafür bewerben.
 
-
 ## FEEDBACK
-Dieses Wiki ist noch in der Beta-Version und wird stetig weiterentwickelt und verbessert. 
+
+Dieses Wiki ist noch in der Beta-Version und wird stetig weiterentwickelt und verbessert.
 Wir würden uns freuen, wenn du Feedback zum Inhalt sowie Ideen und Gedanken bei Insta an @youngfoundersnetwork schreibst oder einfach unten auf "Diese Seite bearbeiten" gehst 💛
 
 <Button>Roadmap starten!</Button>
-

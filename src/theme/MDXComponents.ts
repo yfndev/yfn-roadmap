@@ -25,5 +25,5 @@ export default {
   Button,
   VideoFloat,
   Spotify,
-  TikTok
+  TikTok,
 };

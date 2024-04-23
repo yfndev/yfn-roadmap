@@ -29,8 +29,9 @@ Wichtig ist nicht nur eine Idee zu finden, die einem selbst gefällt. Sie muss v
 ## BEISPIEL "JuniorJob"
 
 <ImageFloat
-  text="Celina & Bersa: Wir bauen eine App zum Finden von Schülerjobs"
-  source="https://cdn.prod.www.spiegel.de/stories/88464/assets/3/f-img_7658-57331708347243672.jpeg?t=1708616867000&t=1708616867000"
+text="Celina & Bersa: Wir bauen eine App zum Finden von Schülerjobs"
+source="https://cdn.prod.www.spiegel.de/stories/88464/assets/3/f-img_7658-57331708347243672.jpeg?t=1708616867000&t=1708616867000"
+
 >
 
 Ich hab nach einem Nebenjob gesucht und von den tausenden Bewerbungen nur Absagen bekommen. Immer weil ich unter 18 war.
