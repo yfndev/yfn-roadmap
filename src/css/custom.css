@@ -22,6 +22,10 @@
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
   --background-light: rgba(0, 0, 0, 0.025);
+
+  --color-on-primary: #fff;
+  --color-contrast: #000;
+  --color-on-contrast: #fff;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -34,27 +38,38 @@
   --ifm-color-primary-lighter: #feef27;
   --ifm-color-primary-lightest: #fef24d;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+
+  --color-on-primary: #000;
+  --color-contrast: #fff;
+  --color-on-contrast: #000;
 }
 
 h1 {
   display: inline-block;
-  background-color: var(--ifm-color-yfn);
-  padding: 0.5rem;
+  background-color: var(--ifm-color-primary);
+  color: var(--color-on-primary);
+  padding: 0.25em;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
   font-weight: bold;
+  kerning: -5%;
   font-size: 40px;
 }
 
 h2 {
   display: inline-block;
-  background-color: black;
-  color: white;
+  background-color: var(--color-contrast);
+  color: var(--color-on-contrast);
   font-weight: bold;
-  padding: 0.5rem;
+  padding: 0.25em;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  kerning: -5%;
   font-size: 28px;
 }
 
-h1 [data-theme="dark"] {
-  background-color: var(--ifm-color-yfn);
+h2 a {
+  display: none;
 }
 
 .img-right {
@@ -77,7 +92,7 @@ button {
 }
 
 button:hover {
-  background-color: var(--ifm-color-yfn);
+  background-color: var(--ifm-color-primary);
 }
 
 .table-of-contents__link:hover,
