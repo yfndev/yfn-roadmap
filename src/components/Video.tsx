@@ -1,9 +1,5 @@
 export const Video = ({ sourceId }) => (
-  <div
-    style={{
-      padding: "0.5rem",
-    }}
-  >
+  <div>
     <iframe
       width="100%"
       height="200"
