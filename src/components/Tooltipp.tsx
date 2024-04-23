@@ -7,24 +7,17 @@ export const Tooltipp = ({
   tutorialSource,
   buttonText,
 }) => (
-  <div
-    style={{
-      padding: "1rem",
-      border: "2px solid black",
-    }}
-  >
-    <h3 style={{ fontSize: "20px" }}>Tooltipp: {toolName}</h3>
+  <div className="padding-4 border-2 border-black">
+    <h3 className=" text-xl">Tooltipp: {toolName}</h3>
     <p>{toolDescription}</p>
-    <div
-      style={{
-        display: "flex",
-        justifyContent: "start",
-        gap: "1rem",
-      }}
-    >
-      {tutorialSource && ( <Link to={tutorialSource}><button>Tutorial anschauen</button></Link>)}
+    <div className="flex justify-start gap-4">
+      {tutorialSource && (
+        <Link to={tutorialSource}>
+          <button>Tutorial anschauen</button>
+        </Link>
+      )}
       <Link to={toolSource}>
-      <button>{buttonText}</button>
+        <button>{buttonText}</button>
       </Link>
     </div>
   </div>

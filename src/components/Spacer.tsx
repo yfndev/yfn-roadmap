@@ -2,9 +2,8 @@ import React from "react";
 
 export const Spacer = ({ children }) => (
   <div
-    style={{
-      height: "2rem",
-    }}
+  className="h-8"
+   
   >
     {children}
   </div>
