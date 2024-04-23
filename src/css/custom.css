@@ -9,7 +9,8 @@
 /* You can override the default Infima variables here. */
 :root {
   --ifm-font-family-base: "Readex Pro";
-  --ifm-color-primary: #ffed00;
+  --ifm-color-primary: black;
+  --ifm-color-yfn: #ffed00;
   --ifm-color-primary-dark: #e4d500;
   --ifm-color-primary-darker: #d5c923;
   --ifm-color-primary-darkest: #aaa239;
@@ -35,7 +36,7 @@
 
 h1 {
   display: inline-block;
-  background-color: var(--ifm-color-primary);
+  background-color: var(--ifm-color-yfn);
   padding: 0.5rem;
   font-size: 40px;
 }
@@ -49,7 +50,7 @@ h2 {
 }
 
 h1 [data-theme="dark"] {
-  background-color: var(--ifm-color-primary);
+  background-color: var(--ifm-color-yfn);
 }
 
 .img-right {
@@ -70,4 +71,14 @@ button {
 
 button:hover {
   background-color: var(--ifm-color-primary);
+}
+
+.table-of-contents__link:hover,
+.table-of-contents__link:hover code,
+.table-of-contents__link--active,
+.table-of-contents__link--active code, .navbar__link--active{
+  display: inline-block;
+  padding: 2px 5px;
+  background-color: var(--ifm-color-yfn);
+  text-decoration: none;
 }
