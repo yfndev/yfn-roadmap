@@ -3,16 +3,21 @@ import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
 import path from "path";
 
+const url = process.env.URL ?? "http://localhost";
+const yfnUrl = process.env.YFN_URL ?? "https://youngfounders.network";
+const baseUrl = process.env.BASE_URL ?? "/roadmap";
+const githubUrl = "https://github.com/yfndev/yfn-roadmap";
+
 const config: Config = {
   title: "Roadmap",
   tagline: "Dinosaurs are cool",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: process.env.URL ?? "http://localhost/",
+  url: url,
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/roadmap",
+  baseUrl: baseUrl,
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -39,7 +44,7 @@ const config: Config = {
           routeBasePath: "/docs/startup-basics/",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/yfndev/yfn-roadmap/tree/main/",
+          editUrl: githubUrl + "/tree/main/",
         },
         theme: {
           customCss: "./src/css/custom.css",
@@ -64,12 +69,12 @@ const config: Config = {
           label: "Roadmap",
         },
         {
-          href: "https://github.com/yfndev/yfn-roadmap",
+          href: githubUrl,
           label: "GitHub",
           position: "right",
         },
         {
-          href: process.env.YFN_URL ?? "https://youngfounders.network",
+          href: yfnUrl,
           label: "YFN Website",
           position: "right",
         },
@@ -92,11 +97,11 @@ const config: Config = {
           items: [
             {
               label: "Impressum",
-              href: "https://youngfounders.network/impressum",
+              href: process.env.YFN_URL ?? "/imprint",
             },
             {
               label: "Datenschutz",
-              href: "https://youngfounders.network/legal/privacy",
+              href: yfnUrl + "/legal/privacy",
             },
           ],
         },
@@ -105,11 +110,11 @@ const config: Config = {
           items: [
             {
               label: "YFN Website",
-              href: "https://youngfounders.network",
+              href: yfnUrl,
             },
             {
               label: "GitHub",
-              href: "https://github.com/yfndev/yfn-roadmap",
+              href: githubUrl,
             },
           ],
         },
