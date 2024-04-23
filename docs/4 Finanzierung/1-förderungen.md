@@ -44,10 +44,3 @@ Tipps von Celina und Bersa, wie sie 60k Umsatz mit Wettbewerben gemacht haben.
 
 </Grid>
 
-<Tooltipp
-  toolName="FigJam"
-  toolDescription="Zum Aufschreiben von Ideen beim Brainstorming kannst du kostenlos FigJam nutzen."
-  toolSource="https://www.figma.com/de/figjam/"
-  tutorialSource="https://www.youtube.com/watch?v=axDzyLEfYgU"
-  buttonText="Zu FigJam"
-/>
