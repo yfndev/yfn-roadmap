@@ -2,12 +2,11 @@ import React from "react";
 import MDXComponents from "@theme-original/MDXComponents";
 import { Callout } from "../components/Callout";
 import { ImageFloat } from "../components/ImageFloat";
-import { Video } from "../components/Video";
-import { Grid } from "../components/Grid";
+import { YouTube } from "../components/YouTube";
+import { TwoColumns } from "../components/TwoColumns";
 import { Tooltipp } from "../components/Tooltipp";
 import { Spacer } from "../components/Spacer";
 import { Button } from "../components/Button";
-import { VideoFloat } from "../components/VideoFloat";
 import { Spotify } from "../components/Spotify";
 import { TikTok } from "../components/TikTok";
 
@@ -18,12 +17,11 @@ export default {
   // `Callout` will receive all props that were passed to `<Highlight>` in MDX
   Callout,
   ImageFloat,
-  Video,
-  Grid,
+  YouTube,
+  TwoColumns,
   Tooltipp,
   Spacer,
   Button,
-  VideoFloat,
   Spotify,
   TikTok,
 };
