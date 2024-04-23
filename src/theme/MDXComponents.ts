@@ -4,8 +4,10 @@ import { ImageFloat } from "../components/ImageFloat";
 import { Video } from '../components/Video';
 import { Grid } from '../components/Grid';
 import { Tooltipp } from '../components/Tooltipp';
+import { Spacer } from '../components/Spacer';
 
 import MDXComponents from '@theme-original/MDXComponents';
+
 
 
 
@@ -19,4 +21,5 @@ export default {
     Video,
     Grid,
     Tooltipp,
+    Spacer,
 };
