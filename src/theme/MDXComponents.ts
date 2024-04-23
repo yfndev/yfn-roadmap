@@ -8,10 +8,7 @@ import { Tooltipp } from "../components/Tooltipp";
 import { Spacer } from "../components/Spacer";
 import { Button } from "../components/Button";
 import { VideoFloat } from "../components/VideoFloat";
-
-
-
-
+import { Spotify } from "../components/Spotify";
 
 export default {
   // Re-use the default mapping
@@ -26,5 +23,5 @@ export default {
   Spacer,
   Button,
   VideoFloat,
-
+  Spotify,
 };

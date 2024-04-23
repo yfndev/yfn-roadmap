@@ -19,8 +19,7 @@ Ein MVP (Minimum Viable Product) ist eine sehr schlanke Version deines Produkts.
 Moritz Mann ist Gründer der Agentur Protofy und hat schon unzählige MVPs für Unternehmen gebaut.
 
 In der Folge unseres YFN Podcasts "MACHEN" spricht er darüber, wie man es schafft nicht direkt zu komplex zu konzipieren.
-
-<iframe  src="https://open.spotify.com/embed/episode/7eTXfhDadAouUmTnpKAJeL?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<Spotify source="https://open.spotify.com/episode/7eTXfhDadAouUmTnpKAJeL"/>
 
 ## Prototyp bauen
 

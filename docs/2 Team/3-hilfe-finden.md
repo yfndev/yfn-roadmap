@@ -105,7 +105,8 @@ Für jede Software kannst du googeln, ob es eine Schüler/Studenten Version gibt
 
 - [ ] LinkedIn funktioniert mit beidseitigen Vernetzungen. Um anzufangen und nach einem aktiven Profil auszusehen, kannst du dich mit Mitgliedern aus unserem Young Founders Network vernetzen. Klicke hier, um auf LinkedIn Personen zu sehen, die im YFN sind (du kannst damit übrigens auch nach Mitarbeitern in jedem beliebigen Unternehmen suchen ;)
 
-<iframe src="https://open.spotify.com/embed/episode/5lUY1Yr4s3yQFhtPIYjlDL?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<Spotify source="https://open.spotify.com/episode/5lUY1Yr4s3yQFhtPIYjlDL"/>
+
 
 <Spacer/>
 Sehr zu empfehlende Folge aus unserem MACHEN Podcast, mit purem Value wie man als junger Gründer LinkedIn für sich nutzen kann.
