@@ -2,11 +2,10 @@
 sidebar_position: 1
 ---
 
-# 💡 PROBLEM FINDEN
+# 💡 Problem finden
 
-> "The way to get good ideas is to get lots of ideas and throw the bad ones away."
-
-- Linus Pauling
+> "The way to get good ideas is to get lots of ideas and throw the bad ones away."\
+> - Linus Pauling
 
 <Callout>
   📍 Hier lernst du, wie du ein Problem findest, dass es wert ist gelöst zu
@@ -66,11 +65,8 @@ Vielleicht hast du Themen, mit denen du dich auskennst oder die dich interessier
   toolDescription="Zum Aufschreiben von Ideen beim Brainstorming kannst du kostenlos FigJam nutzen."
   toolSource="https://www.figma.com/de/figjam/"
   tutorialSource="https://www.youtube.com/watch?v=axDzyLEfYgU"
+  buttonText="Zu FigJam"
 />
-
-### Tutorial
-
-<Video sourceId="axDzyLEfYgU" />
 
 ## Deep Dive Tipps
 

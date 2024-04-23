@@ -7,6 +7,7 @@ import { Grid } from "../components/Grid";
 import { Tooltipp } from "../components/Tooltipp";
 import { Spacer } from "../components/Spacer";
 import { Button } from "../components/Button";
+import { VideoFloat } from "../components/VideoFloat";
 
 
 
@@ -23,4 +24,5 @@ export default {
   Tooltipp,
   Spacer,
   Button,
+  VideoFloat,
 };

@@ -1,6 +1,1 @@
-export const Button = ({ children }) => (
-   <button>
-        {children}
-        </button>
-  );
-  
+export const Button = ({ children }) => <button>{children}</button>;

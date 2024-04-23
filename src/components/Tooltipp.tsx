@@ -1,8 +1,11 @@
+import Link from "@docusaurus/Link";
+
 export const Tooltipp = ({
   toolName,
   toolDescription,
   toolSource,
   tutorialSource,
+  buttonText,
 }) => (
   <div
     style={{
@@ -19,8 +22,10 @@ export const Tooltipp = ({
         gap: "1rem",
       }}
     >
-      <button>Tutorial anschauen</button>
-      <button>Zu {toolName}</button>
+      {tutorialSource && ( <Link to={tutorialSource}><button>Tutorial anschauen</button></Link>)}
+      <Link to={toolSource}>
+      <button>{buttonText}</button>
+      </Link>
     </div>
   </div>
 );
