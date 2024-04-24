@@ -39,7 +39,7 @@ const config: Config = {
           routeBasePath: "/docs/startup-basics/",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: githubUrl + "/blob/staging",
+          editUrl: githubUrl + "/blob/content-review",
         },
 
         theme: {

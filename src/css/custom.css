@@ -80,8 +80,22 @@ h2 a {
   float: right;
   margin-right: 1em;
 }
+a{
+  text-decoration: underline;
+}
+a:hover{
+  font-weight: bold;
+  color: black
+}
 
+a > button {
+  text-decoration: none;
+}
+button a {
+  text-decoration: none !important;
+}
 button {
+  text-decoration: none !important;
   display: flex;
   font-family: var(--ifm-font-family-base);
   font-size: 16px;
@@ -97,11 +111,9 @@ button {
 
 button:hover {
   background-color: var(--ifm-color-primary);
+
 }
 
-a {
-  text-decoration: underline;
-}
 
 .menu__link,
 .table-of-contents__link,
