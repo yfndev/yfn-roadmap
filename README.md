@@ -1,5 +1,4 @@
 # YFN Roadmap
-
 Das Young Founders Network ist ein Non-Profit Verein mit einer Community aus 250+ der jüngsten Gründer aus ganz Deutschland.
 
 **Diese Roadmap ist das, was wir gerne gehabt hätten, als wir angefangen haben, unsere Ideen umzusetzen**
@@ -64,9 +63,7 @@ Werden mehr als 2 Elemente eingefügt gehen diese in die nächste Zeile.
 <TwoColumns>
     <YouTube url="https://www.youtube.com/watch?v=UJ6oBCM2GUM"/>
     <YouTube url="https://www.youtube.com/watch?v=UJ6oBCM2GUM"/>
-</TwoColumns
-
->
+</TwoColumns>
 ```
 
 Bei Markdown content sollte dieser nochmals in einem `<div>` gewrappt werden.
@@ -79,33 +76,30 @@ Bei Markdown content sollte dieser nochmals in einem `<div>` gewrappt werden.
 ```
 
 ### Button
-
 ```mdx
-<Button>Bitte hier clicken</Button>
+<Button>
+  Bitte hier clicken
+</Button>
 ```
 
 ### Image Float
-
 ```mdx
 <ImageFloat source="IMAGE SOURCE" text="Das hier ist eine Beschreibung">
-  Das hier ist ein Text
+Das hier ist ein Text
 </ImageFloat>
 ```
 
 ### Spotify
-
 ```mdx
-<Spotify source="Spotify Podcast Link" />
+<Spotify source="Spotify Podcast Link"/>
 ```
 
 ### TikTok
-
 ```mdx
-<TikTok source="TikTok Link" />
+<TikTok source="TikTok Link"/>
 ```
 
 ### Tooltipp
-
 ```mdx
 <Tooltipp
   toolName="Figma"
@@ -117,9 +111,8 @@ Bei Markdown content sollte dieser nochmals in einem `<div>` gewrappt werden.
 ```
 
 ### Brauchst du mehr Platz?
-
 ```mdx
-<Spacer />
+<Spacer/>
 ```
 
 ### Lokal starten
