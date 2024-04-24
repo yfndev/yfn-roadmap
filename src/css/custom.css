@@ -13,6 +13,7 @@
   /* --ifm-color-primary: #FFED00; */
   --ifm-font-family-base: "Readex Pro";
   --ifm-color-primary: #d805a9;
+  --ifm-color-primary: #feec01;
   --ifm-color-primary-dark: #c20598;
   --ifm-color-primary-darker: #b80490;
   --ifm-color-primary-darkest: #970476;
@@ -47,13 +48,14 @@
 h1 {
   display: inline-block;
   background-color: var(--ifm-color-primary);
-  color: var(--color-on-primary);
+  color: #000;
   padding: 0.25em;
   padding-left: 0.5em;
   padding-right: 0.5em;
   font-weight: bold;
   kerning: -5%;
   font-size: 40px;
+  text-transform: uppercase;
 }
 
 h2 {
@@ -66,10 +68,12 @@ h2 {
   padding-right: 0.5em;
   kerning: -5%;
   font-size: 28px;
+  text-transform: uppercase;
 }
 
 h2 a {
   display: none;
+  
 }
 
 .img-right {
@@ -114,6 +118,7 @@ a {
   padding: 2px 5px;
   background-color: var(--ifm-color-yfn);
   text-decoration: none;
+  
 }
 
 ul {
