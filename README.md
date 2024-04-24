@@ -33,8 +33,6 @@ Ließ dir die Dokumentatiion von Docusaurus durch, um zu erfahren, wie du Markdo
 
 Ein Youtube Video einbetten.
 ```mdx
-import YouTube from '@site/src/components/YouTube';
-
 <YouTube url="https://www.youtube.com/watch?v=UJ6oBCM2GUM"/>
 ```
 
@@ -44,7 +42,6 @@ Zwei Spalten nebeneinander. Bei kleiner Bildschirmgröße werden die Spalten unt
 Werden mehr als 2 Elemente eingefügt gehen diese in die nächste Zeile.
 
 ```mdx
-import TwoColumns from '@site/src/components/TwoColumns';
 <TwoColumns>
     <YouTube url="https://www.youtube.com/watch?v=UJ6oBCM2GUM"/>
     <YouTube url="https://www.youtube.com/watch?v=UJ6oBCM2GUM"/>
@@ -65,6 +62,21 @@ Bei Markdown content sollte dieser nochmals in einem `<div>` gewrappt werden.
     </div>
 </TwoColumns>
 ```
+
+### Button
+TODO
+
+### ImageFloat
+TODO
+
+### Spotify
+TODO
+
+### TikTok
+TODO
+
+### Tooltipp
+TODO
 
 ### Lokal starten
 ```bash
