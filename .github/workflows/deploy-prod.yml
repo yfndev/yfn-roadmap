@@ -47,7 +47,7 @@ jobs:
             DOCUSAURUS_BASE_URL=https://youngfounders.network/roadmap/
 
   deploy:
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
     needs: build
     steps:
       - run: echo ${{ secrets.GH_WORKFLOW_DISPATCH_TOKEN }}
