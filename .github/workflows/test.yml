@@ -2,7 +2,9 @@ name: Test Build
 on:
   push:
     branches:
-      - '*'
+      - "**"
+      - "!main"
+      - "!staging"
 
 jobs:
   build:
@@ -15,7 +17,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 18
-          cache: 'npm'
+          cache: "npm"
 
       - run: npm install
       - run: npm run build
