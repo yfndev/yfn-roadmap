@@ -6,7 +6,7 @@ export const ImageFloat = ({ source, text, children }) => (
   >
     <div
       style={{
-        backgroundColor: "var(--ifm-color-yfn)",
+        backgroundColor: "var(--ifm-color-primary)",
         padding: "1rem",
         display: "flex",
         flexDirection: "column",
