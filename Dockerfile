@@ -5,6 +5,8 @@ WORKDIR /app
 ENV URL=
 # YFN website URL
 ENV YFN_URL=
+# Base url like /roadmap/
+ENV BASE_URL=
 
 COPY package.json package-lock.json ./
 RUN npm i
