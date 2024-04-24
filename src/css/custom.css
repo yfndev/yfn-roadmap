@@ -80,12 +80,12 @@ h2 a {
   float: right;
   margin-right: 1em;
 }
-a{
+a {
   text-decoration: underline;
 }
-a:hover{
+a:hover {
   font-weight: bold;
-  color: black
+  color: black;
 }
 
 a > button {
@@ -111,9 +111,7 @@ button {
 
 button:hover {
   background-color: var(--ifm-color-primary);
-
 }
-
 
 .menu__link,
 .table-of-contents__link,
