@@ -23,6 +23,7 @@
     "autoprefixer": "^10.4.19",
     "axios": "^1.6.8",
     "clsx": "^2.0.0",
+    "docusaurus": "^1.14.7",
     "postcss": "^8.4.38",
     "prettier": "^3.2.5",
     "prism-react-renderer": "^2.3.0",

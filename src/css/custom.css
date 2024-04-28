@@ -125,14 +125,27 @@ button:hover {
 .table-of-contents__link:hover,
 .table-of-contents__link:hover code,
 .table-of-contents__link--active,
-.table-of-contents__link--active code,
-.navbar__link--active {
+.table-of-contents__link--active code{
   display: inline-block;
   color: black;
   font-weight: 800;
   text-decoration: none;
   background-color: var(--ifm-color-primary);
 }
+
+.navbar__link--active{
+  color:black;
+  font-weight: 600;
+}
+
+.navbar__link--active:hover{
+  display: inline-block;
+  color: black;
+  font-weight: 800;
+  text-decoration: none;
+  background-color: var(--ifm-color-primary);
+}
+
 .table-of-contents__link:hover,
 .table-of-contents__link:hover code,
 .table-of-contents__link--active,
