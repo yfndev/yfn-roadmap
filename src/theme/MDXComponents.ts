@@ -4,10 +4,11 @@ import Admonition from "@theme/Admonition";
 import { ImageFloat } from "../components/ImageFloat";
 import { YouTube } from "../components/YouTube";
 import { TwoColumns } from "../components/TwoColumns";
-import { Tooltipp } from "../components/Tooltipp";
+
 import { Button } from "../components/Button";
 import { Spotify } from "../components/Spotify";
 import { TikTok } from "../components/TikTok";
+import { Tooltipp } from "../components/Tooltipp";
 
 export default {
   // Re-use the default mapping
@@ -17,9 +18,10 @@ export default {
   ImageFloat,
   YouTube,
   TwoColumns,
-  Tooltipp,
+Tooltipp,
   Button,
   Spotify,
   TikTok,
   Admonition,
+  
 };

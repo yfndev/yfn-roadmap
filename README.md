@@ -114,11 +114,6 @@ Bei Markdown content sollte dieser nochmals in einem `<div>` gewrappt werden.
 />
 ```
 
-### Brauchst du mehr Platz?
-
-```mdx
-<Spacer />
-```
 
 ### Lokal starten
 
