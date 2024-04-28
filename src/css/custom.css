@@ -12,7 +12,7 @@
 :root {
   /* --ifm-color-primary: #FFED00; */
   --ifm-font-family-base: "Readex Pro";
-  --ifm-color-primary: #D805A9;
+  --ifm-color-primary: #d805a9;
   --ifm-color-primary-dark: #c20598;
   --ifm-color-primary-darker: #b80490;
   --ifm-color-primary-darkest: #970476;
@@ -29,7 +29,7 @@
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
-[data-theme='dark'] {
+[data-theme="dark"] {
   --ifm-color-primary: #feec01;
   --ifm-color-primary-dark: #e5d401;
   --ifm-color-primary-darker: #d8c901;

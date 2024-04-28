@@ -56,11 +56,7 @@ const sidebars: SidebarsConfig = {
     {
       type: "category",
       label: "4. Finanzierung",
-      items: [
-        "funding/funding",
-        "funding/pitching",
-        "funding/venture-capital",
-      ],
+      items: ["funding/funding", "funding/pitching", "funding/venture-capital"],
     },
     {
       type: "category",
