@@ -12,13 +12,13 @@
 :root {
   /* --ifm-color-primary: #FFED00; */
   --ifm-font-family-base: "Readex Pro";
-  --ifm-color-primary: #d805a9;
-  --ifm-color-primary-dark: #c20598;
-  --ifm-color-primary-darker: #b80490;
-  --ifm-color-primary-darkest: #970476;
-  --ifm-color-primary-light: #ee06ba;
-  --ifm-color-primary-lighter: #f806c2;
-  --ifm-color-primary-lightest: #fa25cb;
+  --ifm-color-primary: #feec01;
+  --ifm-color-primary-dark: #c4b700;
+  --ifm-color-primary-darker: #a59a00;
+  --ifm-color-primary-darkest: #928800;
+  --ifm-color-primary-light: #fff45a;
+  --ifm-color-primary-lighter: #f9f180;
+  --ifm-color-primary-lightest: #f8f07d;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
   --background-light: rgba(0, 0, 0, 0.025);
@@ -36,7 +36,7 @@
   --ifm-color-primary-darkest: #b2a501;
   --ifm-color-primary-light: #feee1a;
   --ifm-color-primary-lighter: #feef27;
-  --ifm-color-primary-lightest: #fef24d;
+  --ifm-color-primary-lightest: #fffcd9;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 
   --color-on-primary: #000;
@@ -47,13 +47,15 @@
 h1 {
   display: inline-block;
   background-color: var(--ifm-color-primary);
-  color: var(--color-on-primary);
-  padding: 0.25em;
-  padding-left: 0.5em;
+  color: #000;
+  padding: 0.1em;
+  padding-left: 0.4em;
   padding-right: 0.5em;
   font-weight: bold;
   kerning: -5%;
   font-size: 40px;
+  text-transform: uppercase;
+  letter-spacing: -2px;
 }
 
 h2 {
@@ -66,6 +68,8 @@ h2 {
   padding-right: 0.5em;
   kerning: -5%;
   font-size: 28px;
+  text-transform: uppercase;
+  letter-spacing: -1px;
 }
 
 h2 a {
@@ -76,8 +80,22 @@ h2 a {
   float: right;
   margin-right: 1em;
 }
+a {
+  text-decoration: underline;
+}
+a:hover {
+  font-weight: bold;
+  color: black;
+}
 
+a > button {
+  text-decoration: none;
+}
+button a {
+  text-decoration: none !important;
+}
 button {
+  text-decoration: none !important;
   display: flex;
   font-family: var(--ifm-font-family-base);
   font-size: 16px;
@@ -95,15 +113,36 @@ button:hover {
   background-color: var(--ifm-color-primary);
 }
 
+.menu__link,
+.table-of-contents__link,
+.toc-highlight {
+  text-decoration: none;
+  color: black;
+}
+.menu__link--active,
+.menu__link:active,
+.menu__link:hover,
 .table-of-contents__link:hover,
 .table-of-contents__link:hover code,
 .table-of-contents__link--active,
 .table-of-contents__link--active code,
 .navbar__link--active {
   display: inline-block;
-  padding: 2px 5px;
-  background-color: var(--ifm-color-yfn);
+  color: black;
+  font-weight: 800;
   text-decoration: none;
+  background-color: var(--ifm-color-primary);
+}
+.table-of-contents__link:hover,
+.table-of-contents__link:hover code,
+.table-of-contents__link--active,
+.table-of-contents__link--active code {
+  padding: 4px;
+}
+
+.breadcrumbs__item--active .breadcrumbs__link {
+  color: black;
+  font-weight: 600;
 }
 
 ul {
@@ -114,4 +153,10 @@ ul {
 ol {
   list-style-type: decimal;
   margin-left: 1rem;
+}
+
+.alert {
+  margin: 1rem 0rem;
+  /* background-color: #fffde3;
+  border-color:  var(--ifm-color-primary-dark); */
 }
