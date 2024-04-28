@@ -152,11 +152,13 @@ button:hover {
   background-color: var(--ifm-color-primary);
 }
 
+
+
 .table-of-contents__link:hover,
 .table-of-contents__link:hover code,
 .table-of-contents__link--active,
 .table-of-contents__link--active code {
-  padding: 4px;
+  padding: 2px;
 }
 
 .breadcrumbs__item--active .breadcrumbs__link {
