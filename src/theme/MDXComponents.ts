@@ -18,10 +18,9 @@ export default {
   ImageFloat,
   YouTube,
   TwoColumns,
-Tooltipp,
+  Tooltipp,
   Button,
   Spotify,
   TikTok,
   Admonition,
-  
 };

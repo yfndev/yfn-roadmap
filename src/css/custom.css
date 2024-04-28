@@ -125,7 +125,7 @@ button:hover {
 .table-of-contents__link:hover,
 .table-of-contents__link:hover code,
 .table-of-contents__link--active,
-.table-of-contents__link--active code{
+.table-of-contents__link--active code {
   display: inline-block;
   color: black;
   font-weight: 800;
@@ -133,26 +133,27 @@ button:hover {
   background-color: var(--ifm-color-primary);
 }
 
-.navbar__link--active, .navbar__item, .navbar__link{
-  color:black;
+.navbar__link--active,
+.navbar__item,
+.navbar__link {
+  color: black;
   font-weight: 600;
   text-decoration: none;
 }
 
-.navbar__item svg{
+.navbar__item svg {
   display: none;
-
 }
 
-.navbar__link--active:hover, .navbar__item:hover, .navbar__link:hover{
+.navbar__link--active:hover,
+.navbar__item:hover,
+.navbar__link:hover {
   display: inline-block;
   color: black;
   font-weight: 800;
   text-decoration: none;
   background-color: var(--ifm-color-primary);
 }
-
-
 
 .table-of-contents__link:hover,
 .table-of-contents__link:hover code,

@@ -114,7 +114,6 @@ Bei Markdown content sollte dieser nochmals in einem `<div>` gewrappt werden.
 />
 ```
 
-
 ### Lokal starten
 
 ```bash
