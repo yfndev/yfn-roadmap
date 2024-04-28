@@ -120,50 +120,6 @@ Bei Markdown content sollte dieser nochmals in einem `<div>` gewrappt werden.
 <Spacer />
 ```
 
-### Button
-
-```mdx
-<Button>Bitte hier clicken</Button>
-```
-
-### Image Float
-
-```mdx
-<ImageFloat source="IMAGE SOURCE" text="Das hier ist eine Beschreibung">
-  Das hier ist ein Text
-</ImageFloat>
-```
-
-### Spotify
-
-```mdx
-<Spotify source="Spotify Podcast Link" />
-```
-
-### TikTok
-
-```mdx
-<TikTok source="TikTok Link" />
-```
-
-### Tooltipp
-
-```mdx
-<Tooltipp
-  toolName="Figma"
-  toolDescription="Figma ist ein cooles Tool"
-  toolSource="https://www.figma.com/de/"
-  tutorialSource="https://www.youtube.com/Tutorial"
-  buttonText="Zu Figma"
-/>
-```
-
-### Brauchst du mehr Platz?
-
-```mdx
-<Spacer />
-```
-
 ### Lokal starten
 
 ```bash
