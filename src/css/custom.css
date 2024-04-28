@@ -22,8 +22,7 @@
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
   --background-light: rgba(0, 0, 0, 0.025);
-  --ifm-menu-color-active:#000,
-  --color-on-primary: #fff;
+  --ifm-menu-color-active: #000, --color-on-primary: #fff;
   --color-contrast: #000;
   --color-on-contrast: #fff;
 }
@@ -38,8 +37,7 @@
   --ifm-color-primary-lighter: #feef27;
   --ifm-color-primary-lightest: #fffcd9;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
-  --ifm-menu-color-active:#fff,
-  --color-on-primary: #000;
+  --ifm-menu-color-active: #fff, --color-on-primary: #000;
   --color-contrast: #fff;
   --color-on-contrast: #000;
 }
@@ -57,7 +55,6 @@ h1 {
   text-transform: uppercase;
   letter-spacing: -2px;
 }
-
 
 h2 {
   display: inline-block;
@@ -113,22 +110,18 @@ button {
   justify-content: center;
 }
 
-
-
-
 [data-theme="dark"] button:hover {
   color: black;
   background-color: var(--ifm-color-primary);
   text-decoration-color: var(--ifm-color-primary);
 }
 
-.menu__link, 
+.menu__link,
 .table-of-contents__link,
 .toc-highlight {
   text-decoration: none;
   color: var(--color-contrast);
 }
-
 
 .table-of-contents__link:hover,
 .table-of-contents__link:hover code,
@@ -140,8 +133,6 @@ button {
   text-decoration: none;
   background-color: var(--ifm-color-primary);
 }
-
-
 
 .navbar__link--active,
 .navbar__item,
@@ -167,7 +158,7 @@ button {
 .navbar__item:hover,
 .navbar__link:hover {
   display: inline-block;
-  color:   black;
+  color: black;
   font-weight: 800;
   text-decoration: none;
   background-color: var(--ifm-color-primary);
@@ -179,9 +170,6 @@ button {
 .table-of-contents__link--active code {
   padding: 2px;
 }
-
-
-
 
 .breadcrumbs__item--active .breadcrumbs__link {
   color: var(--color-contrast);
