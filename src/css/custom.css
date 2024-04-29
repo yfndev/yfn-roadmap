@@ -191,3 +191,13 @@ ol {
   /* background-color: #fffde3;
   border-color:  var(--ifm-color-primary-dark); */
 }
+
+.main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  max-width: 50rem;
+  margin: 0 auto;
+  padding: 2rem;
+}

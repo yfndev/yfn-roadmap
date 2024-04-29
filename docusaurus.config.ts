@@ -4,8 +4,8 @@ import type * as Preset from "@docusaurus/preset-classic";
 import { baseUrl, githubUrl, url, yfnUrl } from "./src/constants";
 
 const config: Config = {
-  title: "Roadmap",
-  tagline: "Dinosaurs are cool",
+  title: "YFN Roadmap",
+  tagline: "Wie aus deiner Idee ein Produkt wird",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
