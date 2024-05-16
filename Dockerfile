@@ -9,7 +9,10 @@ ENV YFN_URL=
 ENV BASE_URL=
 
 COPY package.json package-lock.json ./
-RUN npm i
+RUN apk add --no-cache autoconf automake libtool nasm build-base && \
+    npm i && \
+    apk del autoconf automake libtool nasm build-base
+    
 COPY . .
 
 # run with build variables
