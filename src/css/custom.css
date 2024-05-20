@@ -141,6 +141,9 @@ button {
   font-weight: 600;
   text-decoration: none;
 }
+[data-theme="dark"] .text{
+  color: var(--color-on-contrast);
+}
 
 [data-theme="dark"] .navbar__link--active,
 .navbar__item,
@@ -201,3 +204,4 @@ ol {
   margin: 0 auto;
   padding: 2rem;
 }
+
