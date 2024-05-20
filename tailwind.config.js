@@ -20,7 +20,7 @@ module.exports = {
             200: "#B3B3B3", // for input fields backgrounds
             100: "#D4D4D4", // for text
           },
-          yfn: "#ffed00",
+          primary: "#feec01",
 
           borderRadius: {
             lg: "var(--radius)",

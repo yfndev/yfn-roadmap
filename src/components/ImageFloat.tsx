@@ -1,30 +1,9 @@
+import React from "react";
+
 export const ImageFloat = ({ source, text, children }) => (
-  <div
-    style={{
-      padding: "0.5rem",
-    }}
-  >
-    <div
-      style={{
-        backgroundColor: "var(--ifm-color-primary)",
-        padding: "1rem",
-        display: "flex",
-        flexDirection: "column",
-        width: "15rem",
-        border: "1px solid black",
-        float: "right",
-        marginLeft: "1rem",
-      }}
-    >
-      <img
-        style={{
-          width: "100%",
-          border: "1px solid black",
-          marginBottom: "1rem",
-        }}
-        src={source}
-        alt={text}
-      />
+  <div className=" p-5">
+    <div className=" bg-primary text-black p-4 flex flex-col w-4 border  stroke-1 float-right ml-4">
+      <img className="w-full border stroke-1 mb-4" src={source} alt={text} />
       <span style={{ fontWeight: "500" }}>{text}</span>
     </div>
     <span>{children}</span>
