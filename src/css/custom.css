@@ -58,8 +58,8 @@ h1 {
 
 h2 {
   display: inline-block;
-  background-color: var(--color-contrast);
-  color: var(--color-on-contrast);
+  background-color: black;
+  color: white;
   font-weight: bold;
   padding: 0.25em;
   padding-left: 0.5em;
@@ -68,6 +68,11 @@ h2 {
   font-size: 28px;
   text-transform: uppercase;
   letter-spacing: -1px;
+}
+
+[data-theme="dark"] h2 {
+  color: black;
+  background-color: white;
 }
 
 h2 a {
@@ -81,6 +86,12 @@ h2 a {
 a {
   text-decoration: underline;
 }
+button,
+button a,
+.button a {
+  text-decoration: none;
+}
+
 a:hover {
   font-weight: bold;
   color: var(--color-contrast);
@@ -93,7 +104,7 @@ a:hover {
 a > button {
   text-decoration: none;
 }
-button a {
+.link-no-underline {
   text-decoration: none !important;
 }
 button {
@@ -109,11 +120,10 @@ button {
   width: 100%;
   justify-content: center;
 }
-
-[data-theme="dark"] button:hover {
+button:hover {
   color: black;
   background-color: var(--ifm-color-primary);
-  text-decoration-color: var(--ifm-color-primary);
+  text-decoration: none;
 }
 
 .menu__link,
@@ -140,6 +150,9 @@ button {
   color: var(--color-contrast);
   font-weight: 600;
   text-decoration: none;
+}
+[data-theme="dark"] .text {
+  color: var(--color-on-contrast);
 }
 
 [data-theme="dark"] .navbar__link--active,

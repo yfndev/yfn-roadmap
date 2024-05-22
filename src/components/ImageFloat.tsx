@@ -1,3 +1,5 @@
+import React from "react";
+
 export const ImageFloat = ({ source, text, children }) => (
   <div
     style={{
@@ -25,8 +27,8 @@ export const ImageFloat = ({ source, text, children }) => (
         src={source}
         alt={text}
       />
-      <span style={{ fontWeight: "500" }}>{text}</span>
+      <p className="text">{text}</p>
     </div>
-    <span>{children}</span>
+    {children}
   </div>
 );

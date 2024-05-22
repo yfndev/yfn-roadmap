@@ -13,12 +13,12 @@ export const Tooltipp = ({
     <p>{toolDescription}</p>
     <div className="flex flex-row mt-4 justify-start gap-4">
       {tutorialSource && (
-        <Link to={tutorialSource} className="no-underline">
+        <Link to={tutorialSource} className="link-no-underline">
           <button>Tutorial anschauen</button>
         </Link>
       )}
-      <Link to={toolSource} className="no-underline">
-        <button>{buttonText}</button>
+      <Link to={toolSource} className="link-no-underline">
+        <button style={{ textDecoration: "none" }}>{buttonText}</button>
       </Link>
     </div>
   </div>
