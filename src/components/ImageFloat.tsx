@@ -6,7 +6,6 @@ export const ImageFloat = ({ source, text, children }) => (
       padding: "0.5rem",
     }}
   >
-  
     <div
       style={{
         backgroundColor: "var(--ifm-color-primary)",
@@ -28,9 +27,7 @@ export const ImageFloat = ({ source, text, children }) => (
         src={source}
         alt={text}
       />
-      <p className="text">
-      {text}
-      </p>
+      <p className="text">{text}</p>
     </div>
     {children}
   </div>

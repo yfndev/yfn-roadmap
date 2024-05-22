@@ -70,7 +70,7 @@ h2 {
   letter-spacing: -1px;
 }
 
-[data-theme="dark"] h2{
+[data-theme="dark"] h2 {
   color: black;
   background-color: white;
 }
@@ -86,7 +86,8 @@ h2 a {
 a {
   text-decoration: underline;
 }
-button, button a,
+button,
+button a,
 .button a {
   text-decoration: none;
 }
@@ -150,7 +151,7 @@ button:hover {
   font-weight: 600;
   text-decoration: none;
 }
-[data-theme="dark"] .text{
+[data-theme="dark"] .text {
   color: var(--color-on-contrast);
 }
 
@@ -213,4 +214,3 @@ ol {
   margin: 0 auto;
   padding: 2rem;
 }
-

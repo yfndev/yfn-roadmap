@@ -18,7 +18,7 @@ export const Tooltipp = ({
         </Link>
       )}
       <Link to={toolSource} className="link-no-underline">
-        <button style={{textDecoration: "none"}}>{buttonText}</button>
+        <button style={{ textDecoration: "none" }}>{buttonText}</button>
       </Link>
     </div>
   </div>
