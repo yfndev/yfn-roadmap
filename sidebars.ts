@@ -71,7 +71,7 @@ const sidebars: SidebarsConfig = {
     {
       type: "link",
       label: "Learn to learn",
-      href: "https://www.youtube.com/watch?v=O96fE1E-rf8&t=619s",
+      href: "https://www.youtube.com/watch?v=O96fE1E-rf8",
     },
     {
       type: "link",
