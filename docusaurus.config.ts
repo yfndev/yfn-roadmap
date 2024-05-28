@@ -1,122 +1,94 @@
-import {themes as prismThemes} from 'prism-react-renderer';
-import type {Config} from '@docusaurus/types';
-import type * as Preset from '@docusaurus/preset-classic';
+import { themes as prismThemes } from "prism-react-renderer";
+import type { Config } from "@docusaurus/types";
+import type * as Preset from "@docusaurus/preset-classic";
+import { baseUrl, githubUrl, url, yfnUrl } from "./src/constants";
 
 const config: Config = {
-  title: 'Roadmap',
-  tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  title: "YFN Roadmap",
+  tagline: "Wie aus deiner Idee ein Produkt wird",
+  favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: url,
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: baseUrl,
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'YFN', // Usually your GitHub org/user name.
-  projectName: 'YFN Roadmap', // Usually your repo name.
+  organizationName: "YFN", // Usually your GitHub org/user name.
+  projectName: "YFN Roadmap", // Usually your repo name.
 
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: "throw",
+  onBrokenMarkdownLinks: "warn",
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'de',
-    locales: ['de'],
+    defaultLocale: "de",
+    locales: ["de"],
   },
 
   presets: [
     [
-      'classic',
+      "classic",
       {
         docs: {
-          sidebarPath: './sidebars.ts',
+          sidebarPath: "./sidebars.ts",
+          routeBasePath: "/docs/startup-basics/",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/yfndev/yfn-roadmap',
+          editUrl: githubUrl + "/blob/staging",
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/yfndev/yfn-roadmap',
-        },
+
         theme: {
-          customCss: './src/css/custom.css',
+          customCss: "./src/css/custom.css",
         },
       } satisfies Preset.Options,
     ],
   ],
 
   themeConfig: {
-    // Replace with your project's social card
-    image: 'img/yfn-social-card.jpg',
+    image: "img/yfn-social-card.jpg",
     navbar: {
-      title: 'Roadmap',
       logo: {
-        alt: 'Roadmap',
-        src: 'img/logo.svg',
+        alt: "YFN",
+        src: "img/logo.svg",
+        srcDark: "img/logo-dark.svg",
       },
       items: [
         {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
-          position: 'left',
-          label: 'Tutorial',
+          type: "docSidebar",
+          sidebarId: "startupBasicsSidebar",
+          position: "left",
+          label: "Startup Basics",
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/yfndev/yfn-roadmap',
-          label: 'GitHub',
-          position: 'right',
+          href: githubUrl,
+          label: "GitHub",
+          position: "right",
+        },
+        {
+          href: yfnUrl,
+          label: "YFN Website",
+          position: "right",
         },
       ],
     },
     footer: {
-      style: 'dark',
+      style: "dark",
       links: [
         {
-          title: 'Docs',
+          title: "Legal",
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
-            },
-          ],
-        },
-        {
-          title: 'Community',
-          items: [
-            {
-              label: 'Main Page',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: "Impressum",
+              href: yfnUrl ?? "/imprint",
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              label: "Datenschutz",
+              href: yfnUrl + "/legal/privacy",
             },
           ],
         },

@@ -4,28 +4,213 @@
  * work well for content-centric websites.
  */
 
+@import "../../src/output.css";
+
+@import url("https://fonts.googleapis.com/css2?family=Readex+Pro:wght@160..700&display=swap");
+
 /* You can override the default Infima variables here. */
 :root {
   /* --ifm-color-primary: #FFED00; */
-  --ifm-color-primary: #AAA239;
-  --ifm-color-primary-dark: #e4d500;
-  --ifm-color-primary-darker: #D5C923;
-  --ifm-color-primary-darkest: #AAA239;
-  --ifm-color-primary-light: #fff241;
-  --ifm-color-primary-lighter: #fff45d;
-  --ifm-color-primary-lightest: #fff783;
+  --ifm-font-family-base: "Readex Pro";
+  --ifm-color-primary: #feec01;
+  --ifm-color-primary-dark: #c4b700;
+  --ifm-color-primary-darker: #a59a00;
+  --ifm-color-primary-darkest: #928800;
+  --ifm-color-primary-light: #fff45a;
+  --ifm-color-primary-lighter: #f9f180;
+  --ifm-color-primary-lightest: #f8f07d;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --background-light: rgba(0, 0, 0, 0.025);
+  --ifm-menu-color-active: #000, --color-on-primary: #fff;
+  --color-contrast: #000;
+  --color-on-contrast: #fff;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
-[data-theme='dark'] {
-  --ifm-color-primary: #FFED00;
-  --ifm-color-primary-dark: #e4d500;
-  --ifm-color-primary-darker: #D5C923;
-  --ifm-color-primary-darkest: #AAA239;
-  --ifm-color-primary-light: #fff241;
-  --ifm-color-primary-lighter: #fff45d;
-  --ifm-color-primary-lightest: #fff783;
+[data-theme="dark"] {
+  --ifm-color-primary: #feec01;
+  --ifm-color-primary-dark: #e5d401;
+  --ifm-color-primary-darker: #d8c901;
+  --ifm-color-primary-darkest: #b2a501;
+  --ifm-color-primary-light: #feee1a;
+  --ifm-color-primary-lighter: #feef27;
+  --ifm-color-primary-lightest: #fffcd9;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --ifm-menu-color-active: #fff, --color-on-primary: #000;
+  --color-contrast: #fff;
+  --color-on-contrast: #000;
+}
+
+h1 {
+  display: inline-block;
+  background-color: var(--ifm-color-primary);
+  color: black;
+  padding: 0.1em;
+  padding-left: 0.4em;
+  padding-right: 0.5em;
+  font-weight: bold;
+  kerning: -5%;
+  font-size: 40px;
+  text-transform: uppercase;
+  letter-spacing: -2px;
+}
+
+h2 {
+  display: inline-block;
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  padding: 0.25em;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  kerning: -5%;
+  font-size: 28px;
+  text-transform: uppercase;
+  letter-spacing: -1px;
+}
+
+[data-theme="dark"] h2 {
+  color: black;
+  background-color: white;
+}
+
+h2 a {
+  display: none;
+}
+
+.img-right {
+  float: right;
+  margin-right: 1em;
+}
+a {
+  text-decoration: underline;
+}
+button,
+button a,
+.button a {
+  text-decoration: none;
+}
+
+a:hover {
+  font-weight: bold;
+  color: var(--color-contrast);
+}
+
+[data-theme="dark"]a:hover {
+  color: var(--color-on-contrast);
+}
+
+a > button {
+  text-decoration: none;
+}
+.link-no-underline {
+  text-decoration: none !important;
+}
+button {
+  text-decoration: none !important;
+  display: flex;
+  font-family: var(--ifm-font-family-base);
+  font-size: 16px;
+  font-weight: 500;
+  color: var(--color-contrast);
+  border: 2px solid var(--color-contrast);
+  padding: 1rem 1rem;
+  cursor: pointer;
+  width: 100%;
+  justify-content: center;
+}
+button:hover {
+  color: black;
+  background-color: var(--ifm-color-primary);
+  text-decoration: none;
+}
+
+.menu__link,
+.table-of-contents__link,
+.toc-highlight {
+  text-decoration: none;
+  color: var(--color-contrast);
+}
+
+.table-of-contents__link:hover,
+.table-of-contents__link:hover code,
+.table-of-contents__link--active,
+.table-of-contents__link--active code {
+  display: inline-block;
+  color: black;
+  font-weight: 800;
+  text-decoration: none;
+  background-color: var(--ifm-color-primary);
+}
+
+.navbar__link--active,
+.navbar__item,
+.navbar__link {
+  color: var(--color-contrast);
+  font-weight: 600;
+  text-decoration: none;
+}
+[data-theme="dark"] .text {
+  color: var(--color-on-contrast);
+}
+
+[data-theme="dark"] .navbar__link--active,
+.navbar__item,
+.navbar__link {
+  color: var(--color-contrast);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.navbar__item svg {
+  display: none;
+}
+
+.navbar__link--active:hover,
+.navbar__item:hover,
+.navbar__link:hover {
+  display: inline-block;
+  color: black;
+  font-weight: 800;
+  text-decoration: none;
+  background-color: var(--ifm-color-primary);
+}
+
+.table-of-contents__link:hover,
+.table-of-contents__link:hover code,
+.table-of-contents__link--active,
+.table-of-contents__link--active code {
+  padding: 2px;
+}
+
+.breadcrumbs__item--active .breadcrumbs__link {
+  color: var(--color-contrast);
+  font-weight: 600;
+}
+
+ul {
+  list-style-type: disc;
+  margin-left: 2rem;
+}
+
+ol {
+  list-style-type: decimal;
+  margin-left: 1rem;
+}
+
+.alert {
+  margin: 1rem 0rem;
+  /* background-color: #fffde3;
+  border-color:  var(--ifm-color-primary-dark); */
+}
+
+.main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  max-width: 50rem;
+  margin: 0 auto;
+  padding: 2rem;
 }
