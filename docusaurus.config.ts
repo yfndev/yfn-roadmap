@@ -65,6 +65,12 @@ const config: Config = {
           label: "Startup Basics",
         },
         {
+          type: "docSidebar",
+          sidebarId: "yfnSchoolSidebar",
+          position: "left",
+          label: "YFN School",
+        },
+        {
           href: githubUrl,
           label: "GitHub",
           position: "right",
