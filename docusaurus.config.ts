@@ -64,7 +64,7 @@ const config: Config = {
       {
         redirects: [
           {
-            from: 'https://youngfounders.network/roadmap/docs/startup-basics/funding/',
+            from: '/roadmap/docs/startup-basics/funding/',
             to: '/docs/startup-basics/start/funding/',
           },
         ],
