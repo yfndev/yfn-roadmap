@@ -7,7 +7,7 @@ function getEnv(key: string): string | undefined {
   return value;
 }
 
-const url = getEnv("URL") ?? "http://localhost";
+const url = getEnv("URL") ?? "https://youngfounders.network/roadmap";
 const yfnUrl = getEnv("YFN_URL") ?? "https://youngfounders.network";
 const baseUrl = getEnv("BASE_URL") ?? "/roadmap";
 const githubUrl = "https://github.com/yfndev/yfn-roadmap";
