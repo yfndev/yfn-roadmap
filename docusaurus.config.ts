@@ -64,10 +64,19 @@ const config: Config = {
       {
         redirects: [
           {
-            from: '/docs/startup-basics/start/funding',
-            to: '/docs/startup-basics/start',
+            from: 'https://youngfounders.network/roadmap/docs/startup-basics/funding/',
+            to: '/docs/startup-basics/start/funding/',
           },
         ],
+      },
+    ],
+    [
+      '@docusaurus/plugin-sitemap',
+      {
+        changefreq: 'weekly',
+        priority: 0.5,
+        ignorePatterns: ['/tags/**'],
+        filename: 'roadmap-sitemap.xml',
       },
     ],
   ],
