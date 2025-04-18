@@ -52,6 +52,7 @@ const config: Config = {
 
   themeConfig: {
     image: "img/yfn-social-card.jpg",
+    canonicalUrl: url,
     navbar: {
       logo: {
         alt: "YFN",
