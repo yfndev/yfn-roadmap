@@ -14,6 +14,7 @@ const config: Config = {
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: baseUrl,
+  trailingSlash: true,
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -29,6 +30,13 @@ const config: Config = {
   i18n: {
     defaultLocale: "de",
     locales: ["de"],
+    localeConfigs: {
+      de: {
+        label: "Deutsch",
+        direction: "ltr",
+        htmlLang: "de-DE",
+      },
+    },
   },
 
   presets: [
@@ -52,7 +60,7 @@ const config: Config = {
 
   themeConfig: {
     image: "img/yfn-social-card.jpg",
-    canonicalUrl: url,
+    canonicalUrl: url + baseUrl + "/",
     navbar: {
       logo: {
         alt: "YFN",
