@@ -58,6 +58,20 @@ const config: Config = {
     ],
   ],
 
+  plugins: [
+    [
+      '@docusaurus/plugin-client-redirects',
+      {
+        redirects: [
+          {
+            from: '/docs/startup-basics/start/funding',
+            to: '/docs/startup-basics/start',
+          },
+        ],
+      },
+    ],
+  ],
+
   themeConfig: {
     image: "img/yfn-social-card.jpg",
     canonicalUrl: url + baseUrl + "/",
