@@ -12,7 +12,7 @@ ENV NODE_ENV=production
 
 COPY package.json package-lock.json ./
 RUN apk add --no-cache autoconf automake libtool nasm build-base && \
-    npm i && \
+    npm ci && \
     apk del autoconf automake libtool nasm build-base
 
 COPY . .
