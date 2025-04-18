@@ -7,6 +7,7 @@ const config: Config = {
   title: "YFN Roadmap",
   tagline: "Wie aus deiner Idee ein Produkt wird",
   favicon: "img/favicon.ico",
+  noIndex: false,
 
   // Set the production url of your site here
   url: url,
