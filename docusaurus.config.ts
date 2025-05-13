@@ -60,23 +60,23 @@ const config: Config = {
 
   plugins: [
     [
-      '@docusaurus/plugin-client-redirects',
+      "@docusaurus/plugin-client-redirects",
       {
         redirects: [
           {
-            from: '/roadmap/docs/startup-basics/funding/',
-            to: '/docs/startup-basics/start/funding/',
+            from: "/roadmap/docs/startup-basics/funding/",
+            to: "/docs/startup-basics/start/funding/",
           },
         ],
       },
     ],
     [
-      '@docusaurus/plugin-sitemap',
+      "@docusaurus/plugin-sitemap",
       {
-        changefreq: 'weekly',
+        changefreq: "weekly",
         priority: 0.5,
-        ignorePatterns: ['/tags/**'],
-        filename: 'roadmap-sitemap.xml',
+        ignorePatterns: ["/tags/**"],
+        filename: "roadmap-sitemap.xml",
       },
     ],
   ],
