@@ -75,7 +75,7 @@ const sidebars: SidebarsConfig = {
     {
       type: "link",
       label: "Ressources",
-      href: "https://joels-code.notion.site/Channels-Courses-6cf8fd0683e447d988538d745ff202ac?pvs=4",
+      href: "https://notion.yfn.info/channels-courses",
     },
     // {
     //   type: "html",
