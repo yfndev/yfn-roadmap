@@ -1,6 +1,6 @@
-import { themes as prismThemes } from "prism-react-renderer";
-import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
+import type { Config } from "@docusaurus/types";
+import { themes as prismThemes } from "prism-react-renderer";
 import { baseUrl, githubUrl, url, yfnUrl } from "./src/constants";
 
 const config: Config = {
@@ -60,23 +60,24 @@ const config: Config = {
 
   plugins: [
     [
-      '@docusaurus/plugin-client-redirects',
+      "@docusaurus/plugin-client-redirects",
       {
         redirects: [
           {
-            from: '/roadmap/docs/startup-basics/funding/',
-            to: '/docs/startup-basics/start/funding/',
+            from: "/roadmap/docs/startup-basics/start/",
+            to: "/docs/startup-basics/start/",
           },
         ],
       },
     ],
     [
-      '@docusaurus/plugin-sitemap',
+      "@docusaurus/plugin-sitemap",
       {
-        changefreq: 'weekly',
+        id: "custom-sitemap",
+        changefreq: "weekly",
         priority: 0.5,
-        ignorePatterns: ['/tags/**'],
-        filename: 'roadmap-sitemap.xml',
+        ignorePatterns: ["/tags/**"],
+        filename: "roadmap-sitemap.xml",
       },
     ],
   ],

@@ -75,7 +75,7 @@ const sidebars: SidebarsConfig = {
     {
       type: "link",
       label: "Ressources",
-      href: "https://joels-code.notion.site/Channels-Courses-6cf8fd0683e447d988538d745ff202ac?pvs=4",
+      href: "https://notion.yfn.info/channels-courses",
     },
     // {
     //   type: "html",
@@ -99,7 +99,7 @@ const sidebars: SidebarsConfig = {
         "yfn-school/day1/break",
         "yfn-school/day1/idea",
         "yfn-school/day1/business-model",
-        "yfn-school/day1/summary"
+        "yfn-school/day1/summary",
       ],
     },
     {
@@ -113,7 +113,6 @@ const sidebars: SidebarsConfig = {
         "yfn-school/day2/feedback",
         "yfn-school/day2/prototype-adjustments",
         "yfn-school/day2/summary",
-  
       ],
     },
     {
@@ -150,7 +149,6 @@ const sidebars: SidebarsConfig = {
         "yfn-school/day5/summary",
       ],
     },
-  
   ],
 
   // But you can create a sidebar manually
