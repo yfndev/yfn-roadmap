@@ -76,8 +76,18 @@ const config: Config = {
         id: "custom-sitemap",
         changefreq: "weekly",
         priority: 0.5,
-        ignorePatterns: ["/tags/**"],
+        ignorePatterns: ["/tags/**", "/search"],
         filename: "roadmap-sitemap.xml",
+        createSitemapItems: async (params) => {
+          const { defaultCreateSitemapItems, ...rest } = params;
+          const items = await defaultCreateSitemapItems(rest);
+          return items.map((item) => ({
+            ...item,
+            changefreq: "weekly",
+            priority: item.url === "/" ? 1.0 : 0.5,
+            lastmod: new Date().toISOString(),
+          }));
+        },
       },
     ],
   ],
