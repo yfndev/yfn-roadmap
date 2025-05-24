@@ -50,6 +50,7 @@ const sidebars: SidebarsConfig = {
         "growth/marketing",
         "growth/public-relations",
         "growth/sales",
+        "growth/Sales Navigator",
       ],
     },
     {
@@ -62,9 +63,31 @@ const sidebars: SidebarsConfig = {
       label: "5. Gründung",
       items: [
         "founding/corporate-form",
-        "founding/under-18-over-18",
-        "founding/bank-account",
+        "founding/Gründen U18",
+        "founding/Geschäftskonto",
         "founding/accounting-and-taxes",
+        "founding/Steuerliche Erfassung",
+        "founding/Sinnvolle Entscheidungen",
+      ],
+    },
+    {
+      type: 'category',
+      label: '6. Sales Kurs', 
+      items: [
+        'sales/1 - Einführung in den B2B Sales Prozess', 
+        'sales/2 - Zielgruppenanalyse und ICP (Ideal Customer Profile)', 
+        'sales/3 - Cold Outreach Strategie',
+        'sales/4 - Lead Qualification und Discovery Calls',
+        'sales/5 - Sales Pitch und Demos',
+        'sales/6 - Pricing und Verhandlungstaktiken',
+        'sales/7 - Abschluss des Deals',
+        'sales/8 - After-Sales und Customer Success',
+        'sales/9 - Optimierung und Skalierung',
+        'sales/10 - Häufige Fehler und Fallstricke im B2B Sales',
+        'sales/11 - Nützliche Tools und Ressourcen',
+        'sales/A - Deep Dive - Mail Konfiguration',
+        'sales/B - Deep Dive - Copywriting',
+        'sales/C - Deep Dive - Buying Personas erstellen',
       ],
     },
     {
@@ -75,7 +98,7 @@ const sidebars: SidebarsConfig = {
     {
       type: "link",
       label: "Ressources",
-      href: "https://notion.yfn.info/channels-courses",
+      href: "https://joels-code.notion.site/Channels-Courses-6cf8fd0683e447d988538d745ff202ac?pvs=4",
     },
     // {
     //   type: "html",
@@ -99,7 +122,7 @@ const sidebars: SidebarsConfig = {
         "yfn-school/day1/break",
         "yfn-school/day1/idea",
         "yfn-school/day1/business-model",
-        "yfn-school/day1/summary",
+        "yfn-school/day1/summary"
       ],
     },
     {
@@ -113,6 +136,7 @@ const sidebars: SidebarsConfig = {
         "yfn-school/day2/feedback",
         "yfn-school/day2/prototype-adjustments",
         "yfn-school/day2/summary",
+  
       ],
     },
     {
@@ -149,6 +173,7 @@ const sidebars: SidebarsConfig = {
         "yfn-school/day5/summary",
       ],
     },
+  
   ],
 
   // But you can create a sidebar manually
