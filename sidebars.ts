@@ -26,8 +26,8 @@ const sidebars: SidebarsConfig = {
         "product/build-prototype",
         "product/coding",
         "product/product-market-fit",
-        "product/business-model",
-      ],
+        "product/business-model"
+      ]
     },
     {
       type: "category",
@@ -37,8 +37,8 @@ const sidebars: SidebarsConfig = {
         "team/shares",
         "team/find-help",
         "team/employees",
-        "team/leadership",
-      ],
+        "team/leadership"
+      ]
     },
     {
       type: "category",
@@ -50,56 +50,63 @@ const sidebars: SidebarsConfig = {
         "growth/marketing",
         "growth/public-relations",
         "growth/sales",
-        "growth/Sales Navigator",
-      ],
+        "growth/sales-navigation"
+      ]
     },
     {
       type: "category",
       label: "4. Finanzierung",
-      items: ["funding/funding", "funding/pitching", "funding/venture-capital"],
+      items: ["funding/funding", "funding/pitching", "funding/venture-capital"]
     },
     {
       type: "category",
       label: "5. Gründung",
       items: [
         "founding/corporate-form",
-        "founding/Gründen U18",
-        "founding/Geschäftskonto",
+        "founding/under-18",
+        "founding/bank-account",
         "founding/accounting-and-taxes",
-        "founding/Steuerliche Erfassung",
-        "founding/Sinnvolle Entscheidungen",
-      ],
+        "founding/tax-registration",
+        "founding/reasonable-decisions"
+      ]
     },
     {
-      type: 'category',
-      label: '6. Sales Kurs', 
+      type: "category",
+      label: "6. Sales Kurs",
       items: [
-        'sales/1 - Einführung in den B2B Sales Prozess', 
-        'sales/2 - Zielgruppenanalyse und ICP (Ideal Customer Profile)', 
-        'sales/3 - Cold Outreach Strategie',
-        'sales/4 - Lead Qualification und Discovery Calls',
-        'sales/5 - Sales Pitch und Demos',
-        'sales/6 - Pricing und Verhandlungstaktiken',
-        'sales/7 - Abschluss des Deals',
-        'sales/8 - After-Sales und Customer Success',
-        'sales/9 - Optimierung und Skalierung',
-        'sales/10 - Häufige Fehler und Fallstricke im B2B Sales',
-        'sales/11 - Nützliche Tools und Ressourcen',
-        'sales/A - Deep Dive - Mail Konfiguration',
-        'sales/B - Deep Dive - Copywriting',
-        'sales/C - Deep Dive - Buying Personas erstellen',
-      ],
+        "sales/introduction-to-the-b2b-sales-process",
+        "sales/target-group-analysis-and-icp-ideal-customer-profile",
+        "sales/cold-outreach-strategy",
+        "sales/lead-qualification-and-discovery-calls",
+        "sales/sales-pitch-and-demos",
+        "sales/pricing-and-negotiation-tactics",
+        "sales/closing-the-deal",
+        "sales/after-sales-and-customer-success",
+        "sales/optimization-and-scaling",
+        "sales/common-mistakes-and-pitfalls-in-b2b-sales",
+        "sales/useful-tools-and-resources",
+
+        {
+          type: "category",
+          label: "Deep Dive",
+          items: [
+            "sales/deep-dive/mail-configuration",
+            "sales/deep-dive/copywriting",
+            "sales/deep-dive/creating-buying-personas"
+          ]
+        }
+      ]
     },
     {
       type: "link",
       label: "Learn to learn",
-      href: "https://www.youtube.com/watch?v=O96fE1E-rf8",
+      href: "https://www.youtube.com/watch?v=O96fE1E-rf8"
     },
     {
       type: "link",
       label: "Ressources",
-      href: "https://joels-code.notion.site/Channels-Courses-6cf8fd0683e447d988538d745ff202ac?pvs=4",
-    },
+      href: "https://joels-code.notion.site/Channels-Courses-6cf8fd0683e447d988538d745ff202ac?pvs=4"
+    }
     // {
     //   type: "html",
     //   value:
@@ -123,7 +130,7 @@ const sidebars: SidebarsConfig = {
         "yfn-school/day1/idea",
         "yfn-school/day1/business-model",
         "yfn-school/day1/summary"
-      ],
+      ]
     },
     {
       type: "category",
@@ -135,9 +142,8 @@ const sidebars: SidebarsConfig = {
         "yfn-school/day2/market-analysis",
         "yfn-school/day2/feedback",
         "yfn-school/day2/prototype-adjustments",
-        "yfn-school/day2/summary",
-  
-      ],
+        "yfn-school/day2/summary"
+      ]
     },
     {
       type: "category",
@@ -148,8 +154,8 @@ const sidebars: SidebarsConfig = {
         "yfn-school/day3/marketing-strategies",
         "yfn-school/day3/sales-techniques",
         "yfn-school/day3/sales-strategy",
-        "yfn-school/day3/summary",
-      ],
+        "yfn-school/day3/summary"
+      ]
     },
     {
       type: "category",
@@ -160,8 +166,8 @@ const sidebars: SidebarsConfig = {
         "yfn-school/day4/financial-planning-basics",
         "yfn-school/day4/pitch-intro",
         "yfn-school/day4/pitch-exercises",
-        "yfn-school/day4/summary",
-      ],
+        "yfn-school/day4/summary"
+      ]
     },
     {
       type: "category",
@@ -170,11 +176,10 @@ const sidebars: SidebarsConfig = {
         "yfn-school/day5/overview",
         "yfn-school/day5/pitch-final",
         "yfn-school/day5/awards-feedback",
-        "yfn-school/day5/summary",
-      ],
-    },
-  
-  ],
+        "yfn-school/day5/summary"
+      ]
+    }
+  ]
 
   // But you can create a sidebar manually
   /*
