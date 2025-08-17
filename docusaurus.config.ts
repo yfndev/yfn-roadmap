@@ -1,18 +1,20 @@
-import { themes as prismThemes } from "prism-react-renderer";
-import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
+import type { Config } from "@docusaurus/types";
+import { themes as prismThemes } from "prism-react-renderer";
 import { baseUrl, githubUrl, url, yfnUrl } from "./src/constants";
 
 const config: Config = {
   title: "YFN Roadmap",
   tagline: "Wie aus deiner Idee ein Produkt wird",
   favicon: "img/favicon.ico",
+  noIndex: false,
 
   // Set the production url of your site here
   url: url,
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: baseUrl,
+  trailingSlash: true,
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -28,6 +30,13 @@ const config: Config = {
   i18n: {
     defaultLocale: "de",
     locales: ["de"],
+    localeConfigs: {
+      de: {
+        label: "Deutsch",
+        direction: "ltr",
+        htmlLang: "de-DE",
+      },
+    },
   },
 
   presets: [
@@ -49,8 +58,43 @@ const config: Config = {
     ],
   ],
 
+  plugins: [
+    [
+      "@docusaurus/plugin-client-redirects",
+      {
+        redirects: [
+          {
+            from: "/roadmap/docs/startup-basics/start/",
+            to: "/docs/startup-basics/start/",
+          },
+        ],
+      },
+    ],
+    [
+      "@docusaurus/plugin-sitemap",
+      {
+        id: "custom-sitemap",
+        changefreq: "weekly",
+        priority: 0.5,
+        ignorePatterns: ["/tags/**", "/search"],
+        filename: "roadmap-sitemap.xml",
+        createSitemapItems: async (params) => {
+          const { defaultCreateSitemapItems, ...rest } = params;
+          const items = await defaultCreateSitemapItems(rest);
+          return items.map((item) => ({
+            ...item,
+            changefreq: "weekly",
+            priority: item.url === "/" ? 1.0 : 0.5,
+            lastmod: new Date().toISOString(),
+          }));
+        },
+      },
+    ],
+  ],
+
   themeConfig: {
     image: "img/yfn-social-card.jpg",
+    canonicalUrl: url + baseUrl + "/",
     navbar: {
       logo: {
         alt: "YFN",
