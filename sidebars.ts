@@ -26,8 +26,8 @@ const sidebars: SidebarsConfig = {
         "product/build-prototype",
         "product/coding",
         "product/product-market-fit",
-        "product/business-model",
-      ],
+        "product/business-model"
+      ]
     },
     {
       type: "category",
@@ -37,8 +37,8 @@ const sidebars: SidebarsConfig = {
         "team/shares",
         "team/find-help",
         "team/employees",
-        "team/leadership",
-      ],
+        "team/leadership"
+      ]
     },
     {
       type: "category",
@@ -50,33 +50,63 @@ const sidebars: SidebarsConfig = {
         "growth/marketing",
         "growth/public-relations",
         "growth/sales",
-      ],
+        "growth/sales-navigation"
+      ]
     },
     {
       type: "category",
       label: "4. Finanzierung",
-      items: ["funding/funding", "funding/pitching", "funding/venture-capital"],
+      items: ["funding/funding", "funding/pitching", "funding/venture-capital"]
     },
     {
       type: "category",
       label: "5. Gründung",
       items: [
         "founding/corporate-form",
-        "founding/under-18-over-18",
+        "founding/under-18",
         "founding/bank-account",
         "founding/accounting-and-taxes",
-      ],
+        "founding/tax-registration",
+        "founding/reasonable-decisions"
+      ]
+    },
+    {
+      type: "category",
+      label: "6. Sales Kurs",
+      items: [
+        "sales/introduction-to-the-b2b-sales-process",
+        "sales/target-group-analysis-and-icp-ideal-customer-profile",
+        "sales/cold-outreach-strategy",
+        "sales/lead-qualification-and-discovery-calls",
+        "sales/sales-pitch-and-demos",
+        "sales/pricing-and-negotiation-tactics",
+        "sales/closing-the-deal",
+        "sales/after-sales-and-customer-success",
+        "sales/optimization-and-scaling",
+        "sales/common-mistakes-and-pitfalls-in-b2b-sales",
+        "sales/useful-tools-and-resources",
+
+        {
+          type: "category",
+          label: "Deep Dive",
+          items: [
+            "sales/deep-dive/mail-configuration",
+            "sales/deep-dive/copywriting",
+            "sales/deep-dive/creating-buying-personas"
+          ]
+        }
+      ]
     },
     {
       type: "link",
       label: "Learn to learn",
-      href: "https://www.youtube.com/watch?v=O96fE1E-rf8",
+      href: "https://www.youtube.com/watch?v=O96fE1E-rf8"
     },
     {
       type: "link",
       label: "Ressources",
-      href: "https://notion.yfn.info/channels-courses",
-    },
+      href: "https://joels-code.notion.site/Channels-Courses-6cf8fd0683e447d988538d745ff202ac?pvs=4"
+    }
     // {
     //   type: "html",
     //   value:
@@ -99,8 +129,8 @@ const sidebars: SidebarsConfig = {
         "yfn-school/day1/break",
         "yfn-school/day1/idea",
         "yfn-school/day1/business-model",
-        "yfn-school/day1/summary",
-      ],
+        "yfn-school/day1/summary"
+      ]
     },
     {
       type: "category",
@@ -112,8 +142,8 @@ const sidebars: SidebarsConfig = {
         "yfn-school/day2/market-analysis",
         "yfn-school/day2/feedback",
         "yfn-school/day2/prototype-adjustments",
-        "yfn-school/day2/summary",
-      ],
+        "yfn-school/day2/summary"
+      ]
     },
     {
       type: "category",
@@ -124,8 +154,8 @@ const sidebars: SidebarsConfig = {
         "yfn-school/day3/marketing-strategies",
         "yfn-school/day3/sales-techniques",
         "yfn-school/day3/sales-strategy",
-        "yfn-school/day3/summary",
-      ],
+        "yfn-school/day3/summary"
+      ]
     },
     {
       type: "category",
@@ -136,8 +166,8 @@ const sidebars: SidebarsConfig = {
         "yfn-school/day4/financial-planning-basics",
         "yfn-school/day4/pitch-intro",
         "yfn-school/day4/pitch-exercises",
-        "yfn-school/day4/summary",
-      ],
+        "yfn-school/day4/summary"
+      ]
     },
     {
       type: "category",
@@ -146,10 +176,10 @@ const sidebars: SidebarsConfig = {
         "yfn-school/day5/overview",
         "yfn-school/day5/pitch-final",
         "yfn-school/day5/awards-feedback",
-        "yfn-school/day5/summary",
-      ],
-    },
-  ],
+        "yfn-school/day5/summary"
+      ]
+    }
+  ]
 
   // But you can create a sidebar manually
   /*

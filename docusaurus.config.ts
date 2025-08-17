@@ -12,7 +12,6 @@ const config: Config = {
   // Set the production url of your site here
   url: url,
   // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: baseUrl,
   trailingSlash: true,
 
@@ -35,9 +34,24 @@ const config: Config = {
         label: "Deutsch",
         direction: "ltr",
         htmlLang: "de-DE",
+        path: 'de',
       },
     },
   },
+
+  plugins: [
+    [
+      '@docusaurus/plugin-client-redirects',
+      {
+        redirects: [
+          {
+            from: '/roadmap/docs/startup-basics/funding/',
+            to: '/docs/startup-basics/funding/',
+          },
+        ],
+      },
+    ],
+  ],
 
   presets: [
     [
@@ -50,7 +64,12 @@ const config: Config = {
           // Remove this to remove the "edit this page" links.
           editUrl: githubUrl + "/blob/staging",
         },
-
+        sitemap: {
+          changefreq: 'weekly',
+          priority: 0.5,
+          ignorePatterns: ['/tags/**'],
+          filename: 'sitemap.xml',
+        },
         theme: {
           customCss: "./src/css/custom.css",
         },
@@ -94,7 +113,7 @@ const config: Config = {
 
   themeConfig: {
     image: "img/yfn-social-card.jpg",
-    canonicalUrl: url + baseUrl + "/",
+    canonicalUrl: url + baseUrl,
     navbar: {
       logo: {
         alt: "YFN",
@@ -134,11 +153,11 @@ const config: Config = {
           items: [
             {
               label: "Impressum",
-              href: yfnUrl ?? "/imprint",
+              href: yfnUrl + "/impressum",
             },
-            {
+              {
               label: "Datenschutz",
-              href: yfnUrl + "/legal/privacy",
+              href: yfnUrl + "/datenschutz",
             },
           ],
         },
@@ -149,7 +168,7 @@ const config: Config = {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
     },
-  } satisfies Preset.ThemeConfig,
-};
+  },
+} satisfies Config;
 
 export default config;
