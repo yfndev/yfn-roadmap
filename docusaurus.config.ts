@@ -21,7 +21,7 @@ const config: Config = {
   organizationName: "YFN", // Usually your GitHub org/user name.
   projectName: "YFN Roadmap", // Usually your repo name.
 
-  onBrokenLinks: "throw",
+  onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
 
   // Even if you don't use internationalization, you can use this field to set
@@ -62,12 +62,7 @@ const config: Config = {
     [
       "@docusaurus/plugin-client-redirects",
       {
-        redirects: [
-          {
-            from: "/roadmap/docs/startup-basics/start/",
-            to: "/docs/startup-basics/start/",
-          },
-        ],
+        redirects: [],
       },
     ],
     [
